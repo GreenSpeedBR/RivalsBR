@@ -1,0 +1,1575 @@
+1574	0xF252C004
+All Challenges
+All Zone 1 Challenges
+All Zone 2 Challenges
+All Zone 3 Challenges
+All Zone 4 Challenges
+All Zone 5 Challenges
+All Zone 6 Challenges
+You have won a Card!
+All Stories
+Knuckles Story Complete
+Shadow Story Complete
+Silver Story Complete
+Sonic Story Complete
+Rings Won
+Win Time
+Boosts Performed
+Jostle Rival
+Power-Ups hit on Rival
+Defeat boss first
+Win Rings
+Win Time
+BGM_kooky BGM_dove
+BGM_kooky
+[CB]
+Win with %d rings
+Defeat boss in %2d:%02d
+Jostle Rival %d times
+Win with %d Rings
+Win in %2d:%02d
+Perform %d boosts
+Jostle Rival %d times
+Hit Rival with %d Power-Ups
+English
+PowerUp Test Room
+Test Room 1
+Test Room 10
+Test Room 11
+Test Room 2
+Test Room 3
+Test Room 4
+Test Room 5
+Test Room 6
+Test Room 7
+Test Room 8
+Test Room 9
+Zone 1 Act 1
+Zone 1 Act 2
+Zone 1 Boss
+Zone 2 Act 1
+Zone 2 Act 2
+Zone 2 Boss
+Zone 3 Act 1
+Zone 3 Act 2
+Zone 3 Boss
+Zone 4 Act 1
+Zone 4 Act 2
+Zone 4 Boss
+Zone 5 Act 1
+Zone 5 Act 2
+Zone 5 Boss
+Zone 6 Act 1
+Zone 6 Act 2
+Zone 6 Boss
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Zone 1
+Zone 1
+Zone 1
+Zone 2
+Zone 2
+Zone 2
+Zone 3
+Zone 3
+Zone 3
+Zone 4
+Zone 4
+Zone 4
+Zone 5
+Zone 5
+Zone 5
+Zone 6
+Zone 6
+Zone 6
+Are you sure?
+Are you sure you
+No
+Want to quit?
+the level?
+want to quit?
+want to restart
+Yes!
+Yes
+Movie interrupted due to power suspend.  Restarting movie.
+back [CB]
+
+Pause...
+QUIT GAME
+Restart Level
+Are you sure you want to restart the level?
+Resume
+save [XB]
+Save Game...
+[XB] Select
+waiting for opponent
+Not to worry, they're sound asleep inside these cards.
+If either of you want these cards, you'll have to catch me first!
+Ho ho ho ho!
+Wait! Come back here!
+No hard feelings, Sonic, but this time there's no way you're gonna beat me!
+Okay, Knuckles... Then let's race for it! First one who gets to Eggman takes all!
+Dang it... I came all the way to this island looking for the Master Emerald, but there's no sign of it here...
+Something about this island feels really familiar, though...
+Hey! Isn't that... Eggman!
+That's it! He must be involved in this again!
+Hey, Eggman!
+The Master Emerald is gone... I'll bet you're behind this, aren't you?!
+Heh heh heh... Yes, that's right!
+The Master Emerald you're looking for is right here, locked away in this card.
+Hey, Eggman![N]What have you done with Amy and Tails!?
+All right, Eggman! A promise is a promise... Give me back that card!
+Hmm... Well, I suppose if you win my little contest, I could give you a card of your choosing.
+What!? That's not what you said before!
+Fine, I'll take it by force, then!
+I thought I had him, but then he disappeared into the light!?
+You let the doctor get away? Hmph! You're useless...
+What'd you say!?[N]What's your problem, Shadow!?
+Don't mess with me, I'm not in the mood! I might take it out on you, got it?
+Whatever Knuckles... But first, I've got some business with the doctor!
+All righty then... Let's see who can catch him first!
+You're on! Let's do it!
+Doctor! What are you hiding?
+Hey, Shadow![N]Mind your own business!
+Yo, Eggman![N]You'd better hand over the Master Emerald this time!
+Annoying pests! I'll crush you with my mechanical pets!
+Bring it on! We'll see who crushes who!
+How's that, Eggman?!
+Dang it! Where did he go!
+Well, well, it looks like you've won. Here's the card, as promised!
+He certainly knows how to run, I'll give him that...
+It's about time! Now hand it over!
+Hey, you there! Did you see that guy carrying something strange?
+What's the big hurry? Do you even know how to use the Master Emerald card?
+Actually... he has this weird camera that changes things into cards... Wait a minute... Who are you?
+You use it like this!
+What'd you say!? How did he get a hold of it?
+What!? There's that light again!
+You...![N]What are you mumbling about?
+Got no time to waste on you. See ya!
+You little... Get back here!
+This oughta be fun! Bring it on, Eggman!
+Hey, Eggman!
+How did you make the Master Emerald disappear from Angel Island?
+Hmm... Well... You came from Angel Island, didn't you?
+What you don't seem to realize is that this IS Angel Island.
+What!? This is Angel Island!?
+You're not making any sense, Eggman!
+Heh heh heh. Do you need an explanation, then?
+Very well! If you can manage to defeat my Metal Sonic, I'll tell you what you want to know.
+What the...?[N]Metal Sonic?!
+Hey, wait! There's no way you're gonna beat me to him!
+Come to think of it, the shape of this island is similar to Angel Island...
+But the real Angel Island is still there, right? So this one's got to be a fake...
+Argh! I just don't get it!
+Hey, isn't that Shadow over there?! He might know where Eggman is!
+Hey, Shadow! Did you find Eggman?
+Heh... Looks like the doctor got away from you again...
+Shut up! I was this close to catching him!
+Anyway, doesn't seem like you've found him either!
+Maybe not, but at least I'm not as clueless as you. I'll see you later!
+Doctor! Wait!
+Hey, Eggman!
+Earlier you said that this was Angel Island...
+What did you mean? Explain yourself!
+*sigh*[N]Such annoying pests...
+It may be too much for your puny little brain to grasp, but this is Onyx Island, or Angel Island from the future!
+What!? The future!?
+Just like I thought... A bit too much for your little brains to comprehend.
+Enough of this small talk! Time to take care of both of you!
+Dang it! He got away again! If there's one thing he's good at, it's running.
+But what did he mean, though? How is this place Angel Island from the future?
+And what does it all have to do with the Master Emerald disappearing? Arrgh!
+Gah, it just doesn't make any sense! I've just got to track Eggman down again and force him to tell the truth!
+Huh?[N]Sonic? Is that you?[N]And Tails, too?
+Yo, Knuckles![N] Did you decide to give up on your little quest to track down the Master Emerald?
+Grr... You better shut your mouth!
+I'm not letting you make a fool of me again! Let's go, Sonic!
+Ho ho ho ho!
+I have nothing more to say to you! Go play with Metal Sonic now!
+Enough of this, Eggman! You'd better start explaining what's going on!
+Fine! If you want to know so badly, I'll tell you!
+I turned the Master Emerald into a card using my camera by taking a picture of it from the future Angel Island.
+Since the Master Emerald is a unique object that exists across the time-space continuum...
+When the future emerald was turned into a card, its existence in all the time frames vanished as well.
+So that's why the Master Emerald disappeared from right in front of me!
+So you finally understand.
+Using the power of the Emerald, I brought all of Angel Island here, into this time frame.
+So I see...all this is your fault!
+How do you like that?
+Don't think you've won yet! Let's see how you do against both me and Metal Sonic!
+One challenger or two, it doesn't make a difference to me!
+All right then... Now let's teach that Eggman a lesson!
+Unforgivable! You've just made me very very angry!
+Fine then! I'll use this camera to turn the whole planet into a card!
+Ho ho ho ho! You can just sit back and watch! Farewell!
+No! I'm too late!
+That little... He just doesn't want to admit he lost!
+Hey! Knuckles![N]We can't give up yet!
+Sonic, Knuckles, get in! We can still catch up to him in my new Tornado plane!
+All right! Let's go, Sonic!
+Let's pull together on this one, Knuckles!
+Let's do this together, Knuckles!
+Thanks, Sonic!
+We need to work together, for both our futures!
+Let's do this, Silver!
+Ah, so you made it this far, Knuckles. Too bad you're too late!
+What!?
+I've already loaded the camera onto the rocket. Now I'll be able to turn the whole earth into a card!
+I just need to set this final card, and your puny little island will join my perfect collection, as well!
+That card... It's the Master Emerald!
+Now, then... farewell, Knuckles! Ho ho ho ho!
+Hey, wait! I'll take that card back now!
+All right!
+I finally got the Master Emerald back!
+I'll use it to send Onyx Island back where it belongs in the future.
+While I'm at it, I might as well locate all the other treasures that Eggman turned into cards.
+This is going to be fun!
+Who's there!? You better not get in my way!
+My name is Shadow... And I won't let you harm the doctor!
+Ah! Shadow! Take care of him for me!
+Wait! Eggman!
+Hey! Wait!
+Bzzz... Zzzzz... Zzzzzzz...
+C-Can you hear me, Shadow? There's someone after me!
+He's... Ah, it's all so confusing! I'm not sure how to explain this!
+Anyway, follow this signal, and come find me! I'm counting on you, Shadow!
+... Bzzzzz... Zzzz Zzp...
+After that last transmission, the doctor disappeared. That was 6 hours ago. What happened to him?
+Huh? What's this... A silver hedgehog?
+And... He's chasing... the doctor!?
+Hey you! What do you want with the doctor!?
+So, was this who you were warning me about in your transmission?
+Transmission? What are you talking about?
+What!? 6 hours ago, you asked for my help.
+Why would I ask you for your help?
+What? Why are you...
+Hey, wait a second. I think you may be mistaken about something...
+Grr! Stop this nonsense... It's driving me crazy!
+Did you see Eggman come running by there?
+You let the doctor get away? Hmph! You're useless...
+What'd you say!? What's your problem, Shadow!?
+Don't mess with me, I'm not in the mood! I might take it out on you, got it?
+Whatever Knuckles... But first, I've got some business with the doctor!
+All right then... Let's see who can catch him first!
+You're on! Let's do it!
+The doctor's acting strange... It makes no sense, but this has nothing to do with me...
+Hmm, guess this was just a waste of my time...
+Bzzz... Zzzzz... Zzzzz...
+This is Rouge! Can you hear me, Shadow?
+I've come across something quite interesting about the doctor!
+I'll fill you in on the details later. Just keep tailing him for now!
+... Bzzz... Bzzzzzzp...
+How is Rouge involved? What's going on with the doctor?
+Hey, Shadow!
+Doctor! What are you hiding?
+What secret was Rouge talking about?
+Rouge? Secret? What are you talking about?
+Hey, my business comes first! Who cares what he's hiding.
+Eggman! You'd better hand over the Master Emerald this time!
+Annoying pests! I'll crush you with my mechanical pets!
+Bzzz... Zzzzz... Bzzzzz...
+!?
+Shadow! Come in! You'll never guess what I found out!
+This light!? What's going on!?
+Eggman is really...
+Looks like we transported to a completely different location...
+Aaaaah!
+Sonic! What are you doing here? And where's the doctor?
+Rouge! What happened!?
+Hey, look it's Shadow! Now I get it, he must be like you're looking for Eggman, too.
+... Bzzz... Bzzzzzp...
+It must be another race to see who can catch him first!
+The transmission was cut off... What's going on?
+Let's do it!
+Then, why don't you test your mettle against my very own Metal Sonic, here?
+Why don't you show me just how unlike Sonic you really are, then?Hoh ho ho ho!
+Hmph! There's no way I'm losing to some android fake. I accept your challenge!
+Doctor! I think it's time you explained yourself!
+And do you know where Rouge is?
+Ho ho ho ho! Were you looking for this?
+Hmph! I have no time for card games!
+Ah, but what if your "friend" were trapped inside this card, eh? Is this still a game to you?
+W, what!?
+This little troublemaker has learned too much for her own good, so I've trapped her in this card.
+I'll figure out what's going on later... Now, hand over that card!
+Ho ho ho! Do you really want it that badly?
+It seems Rouge discovered the doctor's secret and got turned into a card...
+I'll have to find the doctor and find out what the secret is...
+Hey, Shadow! Did you find Eggman?
+Heh... Looks like the doctor got away from you again...
+Shut up! I was this close to catching him!
+Anyway, doesn't seem like you've found him either!
+Maybe so, but at least I'm not as clueless as you. I'll see you later!
+Hey, wait! There's no way you're gonna beat me to him!
+Wait! Doctor!
+Tell me the secret you've been hiding. Now!
+Ho ho ho ho!
+Perhaps you're talking about this card?
+That's...!? The doctor's on that card!
+Hey, Eggman!
+What's going on here!? You better start explaining!
+Enough of this small talk! Time to take care of both of you!
+What?! Eggman's been turned into a card, too?
+Hoh ho ho! Are the two of you having fun?
+Doctor!
+Good timing. I can hear everything I want straight from the Doctor himself!
+Sorry, but he's my target! I can't let you through!
+The Doctor's been turned into a card, too, just like Rouge...?
+But how would the Doctor have a card of himself? It doesn't make any sense...
+Hm? It's that silver hedgehog from before!
+This all started when he showed up. He's got to know something about what this is all about!
+Hey, you! Why don't you tell me why you're trailing the Doctor, hmm?
+You... You're Shadow!
+Listen, you don't understand what's going on. Please, take this as a warning.
+The man that you refer to as 'Doctor'... There's a chance that he's not the real Eggman.
+What? So, then, the REAL Eggman is the one who's been turned into that card?
+Heh heh heh... Now that I've told you the truth ...I'll have to dispose of you! Let's see how you do against Metal Sonic!
+Metal Sonic has been programmed with all your moves and attack patterns from your last encounter, and now, he will prove to be an admirable adversary for you.
+Whatever! Now, why don't I show that fake why they call me the Ultimate life form!
+Who are you!?
+If what you said is true, then the real doctor is trapped inside that card!
+Heh heh heh...It seems it's time that we stop playing this childish game any longer...
+You are quite right... I am not Eggman!
+My name is Eggman NEGA!
+Eggman NEGA!? But you look like...
+Just like Eggman?
+Of course I do! For I am a descendant of Eggman!
+What!? His descendant!?
+What's the matter? Nowhere left to run?
+Heh heh heh... I cannot lose! If I lose now, I won't be able to change the future.
+What!? Change the future? Is that what you've been trying to do?
+Hmm... I won't let you get away with that!
+Very well then. It looks like I'll have to put you down myself!
+That's right! I'm the real Dr. Eggman!
+Back in the flesh, thanks to you, Shadow!
+So it looks like we have a common enemy. Want to come along?
+Hmph! Is that a question?!
+Very well!
+Then off we go, out into space! Hang on!
+Now you've done it! You've made me very very angry!
+Now, I'll use this camera to transform the whole planet into a card!
+Wait! Eggman NEGA!
+Heh heh heh... There's nothing you can do... Goodbye!
+No! I'm too late!
+It's like you said before. He was only impersonating the Doctor.
+It looks like you've realized who the true enemy is, Shadow.
+Ho ho ho ho! It looks like you have a problem!
+Wha-!? Doctor!
+For now, I'll help you protect the future!
+Hmph, do what you want.
+About time you showed, Shadow! I'll give you a hand too!
+Sonic!? Heh, just stay outta my way.
+Just relax, and enjoy the moment... For it will be your last! Now, if you'll just excuse me... Heh heh heh...
+Not so fast, Eggman NEGA! That card's mine!
+This must be the center of the base...
+Hmm? Isn't that an escape rocket!? He's going to use that to turn the entire planet into a card!
+It took you long enough to get here, Shadow...
+You! Why are you trying to change the future?
+Heh heh heh... I'm here to change my destiny!
+I come from a long line of brilliant, scientists, but that lineage was disrupted with Dr. Eggman's failures!
+As a result, I have been denied my destiny as the world has refused to recognize my brilliance!
+So by removing Dr. Eggman's life and failed attempts at success, I will alter our family history forever!
+Now enough of this chit-chat. Once I set Rouge's card into the rocket, it's all over!
+Hey, wait a minute! Come on, Shadow!
+Thanks for saving me, Shadow!
+That was a bit too close for comfort. What were you thinking!?
+Hmph... There's no way I'd lose to someone like him who blames their own failures on the past.
+That's my Shadow!
+Hey, why not take a peek into our own future?
+Hmph. I'll pass.
+Oh, come on, Shadow. At the very least, we'd be able to do some treasure hunting together.
+We can start with the other cards Eggman had!
+Do what you like...
+Ho ho ho ho!
+You've come all this way to find me... This must be something very important!
+Hey, Eggman! I've got something to ask you, about someone I'm looking for!
+You! What do you want with the doctor!?
+Who's there!? You better not get in my way!
+My name is Shadow... And I won't let you harm the doctor!
+Ah, Shadow! Take care of him for me!
+Wait! Eggman!
+Hey! Wait!
+So, this is who you were warning me about in your transmission?
+Hey, wait a second. I think you might be wrong here.
+I'm just here to ask him about someone named "Eggman NEGA."
+Who!? Eggman NEGA!? I have no clue who you're talking about!
+Grr! Stop this nonsense... It's driving me crazy!
+Eggman! I know you know something about that guy!
+Ho ho ho ho! If you really need to know, I'll tell you...
+But only if you can defeat that blue hedgehog!
+Hey, get back here, Eggman!
+Get out of my way, I've got some personal business with him.
+Hey! You sure have an attitude. Who are you, anyway?
+My name is Silver...
+I can't tell you why, but I need to get to him before you.
+Okay, Silver. Bring it on... I like challenges!
+Okay! Now hand over those cards!
+Grrrrr...
+Hey! Move aside. I already told you I need to talk to him first.
+Yo Silver... You're starting to get on my nerves!
+Enough of this chit chat... Prepare yourself!
+You little... Get back here!
+He certainly knows how to run, I'll give him that...
+Hey, you there! Did you see that guy carrying something strange?
+Actually... He has this weird camera that changes things into cards... Wait a minute... Who are you?
+What'd you say!? How did he get a hold of it?
+You...! What are you mumbling about?
+Got no time to explain it to someone like you... See ya!
+"Someone like me?" Hey, I'm Knuckles! Haven't you heard of me?
+How rude! Asking questions without having the gall to introduce himself!
+Like I said before, I don't have time to deal with you right now. See ya!
+Eggman! That camera technology shouldn't exist in this time! How did you get it?
+Well, well... Seems like you're quite perceptive...
+Allow me to explain...[N] If you can win a race against my dear Metal Sonic, that is!
+Hmph! That outdated machine doesn't stand a chance against me!
+I accept your challenge!
+It appears that Eggman knows what that camera can do...
+So my question is, how did he get his hands on it?
+Hey, Silver! So we meet again?
+Sonic!?
+Heh! While you've been wasting your time, I've been figuring his next move...
+What!?
+If you can keep up, I might tell you what I know! Let's go!
+Hey, Eggman! Things are finally starting to make sense...
+"Eggman NEGA," who I'm looking for, would never let his camera out of his sight.
+So, that means... You must be Eggman NEGA!
+Well now... That's an interesting theory... But do you have any proof?
+Hey, Eggman! Are we done with your little game yet?
+Hmm... I suppose I have enough data to proceed with my plans...
+But if I defeat you now, there won't be anyone left to get in my way in the present, or in the future...
+The future!? You've given yourself away!
+Heh! That's a big IF, Eggman. Get ready!
+Dang![N]I knew that the accident with the camera...
+Hoh ho ho! Are you two having fun?
+Eggman?!
+This ends now! I'm going to expose you for who you really are, no matter what it takes!
+No! The Doctor's mine! Stay out of my way!
+I can't be sure, but there's something about his speech and his mannerisms...
+No, it has to be! He's got to be Eggman NEGA!
+But, if that's the case, then where is the REAL Eggman?
+So, we meet again. Why don't you tell me why you're trailing the Doctor, hmm?
+You... You're Shadow!
+Listen, you don't understand what's going on. Please, take this as a warning.
+The man that you refer to as 'Doctor'... There's a chance that he's not the real Eggman.
+What? So, then, the REAL Eggman is the one who's been turned into that card?
+What?![N]Eggman's been turned into a card, too?
+Why not give yourself up? There's no doubt in my mind that you're Eggman NEGA!
+Heh heh heh... If you know that much, then the reason you're here is...
+That's right! I came from the future to bring you back!
+I can't allow you to abuse the camera's power!
+I admire your determination, but I'm afraid I can't allow you to capture me!
+I'll let Metal Sonic play with you in order to buy me the time I need to quietly sneak away.
+Oh, and you'll find that Metal Sonic is a tad bit more of a capable opponent than before. Heh heh heh...
+Eggman NEGA! I'm not letting you get away!
+All right, Eggman NEGA! You're coming back to the future with me! You've been here far too long!
+I won't let you interfere with my plan! It's time to get down to business!
+So it looks like we have a common enemy. Want to come along?
+Hmph! Is that a question?!
+Very well!
+Then off we go, out into space! Hang on!
+Now you've done it... You've made me very, very angry!
+I'll use this camera to turn this entire planet into a card!
+Heh heh heh... There's nothing you can do, so goodbye!
+No! I'm too late!
+It's like you said before. He was only impersonating the Doctor.
+It looks like you've realized who the true enemy is, Shadow.
+Ho ho ho ho! It looks like you have a problem!
+You!?
+Don't be rash! I'm the real Dr. Eggman!
+That man who was impersonating the Doctor... I can't allow his plans to succeed. Let me help you!
+Thanks, Shadow!
+Hey! It's not wise to tackle everything on your own! Let me help!
+Thanks!
+Eggman NEGA! This is the end of the line for you!
+Ohohoh! I'm impressed that you managed to make it this far. Unfortunately, you're too late!
+Liar! You're bluffing!
+All I have to do is transfer the energy to the camera on my rocket, and I'll turn this whole planet into a card!
+What!? That means my future would be destroyed as well!
+If I can't change the future, I'll simply destroy it!
+There's nobody who can stop me now! Farewell.
+You're not getting away with this, Eggman NEGA! I won't let you ruin the future!
+Eggman NEGA... It looks like he lost control of his machine, and got turned into a card himself...
+As soon as I can collect the other cards, and take care of Eggman NEGA's mess, I'll head back to the future...
+This time frame will be fine, so long as they're around...
+Those blue and black hedgehogs certainly are brave...
+Ho ho ho ho!
+Wait! Come back here!
+No hard feelings, Sonic, but this time there's no way you're gonna beat me!
+Okay, Knuckles... Then let's race for it! First one who gets to Eggman takes all!
+Ho ho ho ho![N]It's been a while, hasn't it, Sonic?
+Hey, Eggman![N]What have you done with Amy and Tails!?
+Not to worry, they're sound asleep inside these cards.
+Hey, Eggman!
+The Master Emerald is gone...[N]I'll bet you're behind this, aren't you?!
+Heh heh heh... Yes, that's right!
+This camera lets me turn anything into a card...
+And I'll use it to create the ultimate card collection!
+If either of you want these cards, you'll need to catch me first!
+All right, Eggman![N]Hand over those cards!
+Hmm... I suppose if you win my little contest, I could give you a card of your choosing.
+What!?[N]That's not what you said before!
+Heh! Pretty much what I expected from you, Eggman. Okay, bring it on!
+Grr! I'll get you, Sonic!
+Hey, get back here, Eggman!
+Get out of my way, I've got some personal business to take care of.
+Hey! You sure have an attitude.[N]Who are you, anyway?
+My name is Silver...
+I can't tell you why, but I need to get to him before you.
+Okay, Silver.[N]Bring it on... I like challenges!
+Okay! Now hand over those cards!
+Grrrrr...
+Hey! Move aside. I already told you I need to talk to him first.
+Yo Silver... you're starting to get on my nerves!
+Enough of this chit chat...[N]Prepare yourself!
+It's too dangerous to get close to him! Hyah!
+Where am I!?
+Hey, what're you doing!?[N]Wha-!
+Looks like we've been transported to a completely different location...
+Sonic! What are you doing here? And where's the doctor?
+Hey, look it's Shadow!? Now I get it, he must be looking for Eggman, too.
+It must be another race to see who can catch him first!
+Let's do it!
+Heh. Looks like I've left Shadow clear in the dust. Guess he's really not as fast as he thinks.
+Hoh ho ho ho![N]That was a thrilling little contest there, Sonic!
+Eggman![N]What are you up to this time?
+Heh heh heh...[N]You must be proud of yourself, having beaten Shadow so handily.
+How do you feel about trying out your skills against my lovely Metal Sonic?
+Wh-what?[N]Metal Sonic?!
+Come forth, Metal Sonic![N]Show this pathetic hedgehog what you're capable of!
+Now, Sonic, let's see if you really are the fastest thing in the world, shall we?
+Hoh ho ho ho!
+Eggman said something about the strongest and the fastest...[N]What's he up to?
+Ah ha! Looks like I've caught up to him again!
+Hey, Silver![N]We meet again!
+Sonic!
+Dang! How did he manage to get back here so quickly?
+Heh! While you've been wasting your time, I've been figuring his next move...
+What!?
+If you can keep up, I might tell you what I know![N]Let's go!
+Okay, Eggman! I've proven that I'm the fastest and the strongest!
+So hand over Tails' card now!
+You want this card that badly, eh?
+Hmm... I suppose I have enough data...
+But if I defeat you now, there won't be anyone left to get in my way in the present, or in the future...
+The future!?[N]You've given yourself away!
+Heh! That's only IF you can defeat me![N]Bring it on Eggman!
+So you think you can track down Eggman faster than me? Let's do this!
+Curse you, Sonic![N]I won't forget this!
+Yes![N]I got Tails' card back!
+Phew![N]Sonic, you saved me!
+But be careful![N]I just know that Eggman's got some more tricks up his sleeve.
+Don't worry![N]He can try whatever he wants, but there's no way he's getting away with it!
+Sonic? Is that you?[N]And Tails, too?
+That must mean that you got the card back from Eggman. I'm too late!
+Sorry about that, Knuckles, but if you're trying to stay on Eggman's heels, you have to be quicker than that.
+Grr... You better shut your mouth!
+You can't run, Eggman![N]No matter where you try to hide, I'll always track you down!
+Humph! Mouthing off as always... If you're so eager to finish things, why don't you let me oblige you!
+Metal Sonic![N]I command you!
+What, that lame robot copy of yours again? You really need to get ahold of some better toys, you know.
+Heh heh heh... The previous Metal Sonic was able to capture data from your last match... Data I was able to recover!
+I've already updated this new model with that data so that it'll be wise to your little tricks.
+This time, it's YOU who's going to get sent to the junk yard, Sonic!
+A copy is still just a copy! It'll never be able to top the original!
+Grr! Enough of this already!
+Let's see how you fare against both me and Metal Sonic!
+Makes no difference to me![N]Let's go!
+Unforgivable! You've just made me very very angry!
+Fine then! I'll use this camera to turn the whole planet into a card!
+Are you running away again, Eggman!?[N]Get back here and fight!
+Ho ho ho ho! You can just sit back and watch! Farewell!
+Dang it! I'm too late!
+Sonic, Knuckles, get in! We can still catch up to him in my new Tornado plane!
+Great timing, Tails!
+Let's pull together on this one, Knuckles!
+All right then... Now let's teach that Eggman a lesson!
+I'll give you a hand, Sonic![N]Let's take care of him together!
+Thanks, Knuckles!
+I need to find the truth![N]I'll help you, Sonic!
+Then let's do this, Shadow!
+Look, Sonic!
+Eggman's trying to escape in that rocket with the giant camera on it!
+You're too late, Sonic! I've already gathered enough energy to take a picture of the entire planet!
+Once I put this final card through my energy transfer device, the world will be mine!
+Nice knowing you, Sonic![N]Hoh ho ho ho!
+That's Amy's card![N]I totally forgot about her!
+We have to hurry before he converts Amy's card into energy!
+Then we gotta hurry![N]You're not getting away, Eggman!
+That's terrible! We've got to find those cards right now!
+You heard him, right Amy? I've got to run! See ya!
+Hey! Wait, Sonic!
+Where... where am I?
+Are you okay, Amy?
+Eggman used his camera to turn us into cards...
+But Sonic saved us!
+Wow! Sonic![N]You fought to save me!?
+You're my knight in shining armor, Sonic!
+So that means we're going to live happily ever after!
+Um... Uh, Tails... Didn't Eggman have other cards with him when he split?
+Y-Yeah... There might be some others trapped in the cards that need rescuing...
+[TB]
+1
+2
+3
+Act 1
+Act 2
+Boss
+Sky Park Zone
+All
+The five boxing wizards jump quickly.
+The five boxing[N]wizards jump quickly.
+Apply
+Attack!
+Attacks:
+30
+5000
+Autosave
+Back
+backbone
+Best Time
+
+Boosts:
+28
+14,000
+© SEGA
+Card
+Card Collection
+Complete Easy Challenges to unlock this Common Card
+Complete all Colosseum Highway Challenges to unlock this Unique Card
+Complete all Sky Park Challenges to unlock this Unique Card
+Complete all Crystal Mountain Challenges to unlock this Unique Card
+Complete all Death Yard Challenges to unlock this Unique Card
+Complete all Meteor Base Challenges to unlock this Unique Card
+Complete Medium Challenges to unlock this Uncommon Card
+Complete Hard Challenges to unlock this Rare Card
+Complete Story Mode with Sonic to unlock this Unique Card
+Complete Story Mode with Knuckles to unlock this Unique Card
+Complete Story Mode with Shadow to unlock this Unique Card
+Complete Story Mode with Silver to unlock this Unique Card
+Complete all Story Modes to unlock this Unique Card
+Complete all Forest Falls Challenges to unlock this Unique Card
+Cards Collected
+Cards Won
+Trade
+Accept
+Add
+Cancel
+Remove
+Your Offer
+You'll Receive
+Card Won!
+Challenge Complete!
+Challenge Log
+Challenge
+Change Outfit
+Profiles
+Chaos Cup One
+Chaos Cup Two
+Chaos Cup Three
+Chaos Cup Four
+Chaos Cup Five
+Chaos Cup Six
+Chaos Cup Seven
+Chaos Cup Eight
+Character
+Knuckles
+KNUCKLES
+Metal Sonic
+???
+Shadow
+SHADOW
+Silver
+SILVER
+Sonic
+SONIC
+Choose Your Character
+Clear Data
+Delete
+Colosseum Highway Zone
+Congratulations!
+Congratulations!
+Connecting
+Continue
+Create
+Create Game
+Credits
+Sonic Rivals Credits
+Project Director
+Takashi Iizuka
+Project Associate Producer
+Keith Palmer
+Art Supervisors
+Kazuyuki Hoshino
+Hiroshi Nishiyama
+Sound Supervisor
+Jun Senoue
+Concept Design & Scenario
+Takashi Iizuka
+Character Artwork
+Kazuyuki Hoshino
+Backbone Entertainment[N]Vancouver
+Producer
+Taylor Miller
+Lead Engineer
+Peter Phillips
+Lead Designer
+Tyler Sigman
+Lead Artist
+Chris Bourassa
+Senior Designer
+Derek Tam
+Lead Level Designer
+Eric Emery
+Lead Level Artist
+Mabel Chan
+Effects Artist and Animation Coordinator
+Daniel Lam
+Technical Artist
+Eric Ronay
+Lead Animator
+Karen Matskiw-Rodriguez
+Associate Producer
+Zoë Curnoe
+Engineers
+Aaron Koenig
+Brian Provinciano
+Chuck Chow
+Clinton Blackmore
+Devin Murnane
+Francois Laberge
+Greg Wilson
+Jim Lao
+Kelvin Tang
+Luke Huang
+Melina Eby
+Richard Orth
+Erwin Tang
+Marcel Barker
+Pete Thompson
+Designers
+Cory Hasselbach
+Kyle Mohammed
+Nick Letizia
+Richard Knight
+Artists
+Aaron Parrott
+Beth Dewhirst
+Brent Kirby
+Erik Larsson
+John Mah
+Kate Freeman
+Kim Sawula
+Shane Holmes
+Animators
+Chun Sin Loh
+Duncan Lin
+Front End Artist
+Mark Pearce
+Additional Design Assistance
+Josh Zisserson
+Michael K. Donovan
+Studio Quality Assurance
+Tom "MrLuigi" McGarry
+Testing Provided by QA Labs
+Justin Bruckal
+Chris Love
+Music Composer
+Chris Rezanson
+Sound Effects Design
+OMNI Interactive Audio
+Alistair Hirst
+Robert Ridihalgh
+Daylon Walden
+Tom Smurdon
+Chase Combs
+Lisa Elliott Cobb
+Senior Producer
+Ivan Allan
+Assistant Producer
+Jarett Metcalfe
+Studio Head
+Joe Bonar
+Technical Director
+George Phillips
+Creative Director
+Trent Ward
+Art Director
+Ryan Slemko
+Business Development
+Jim Sink
+Backbone Entertainment[N]Emeryville
+CORE Engine Team
+Senior Engineer
+Ian McLean
+Reaper Engine Team
+Senior Engineers
+David Aldridge
+Isaac Bender
+Tanio Klyce
+Peter Phillips
+Engineers
+Rocco Balsamo
+Dan Halpern
+Benn Herrera
+Chris Marsh
+Ian Sherman
+J. Wilburn
+Senior Technical Artist
+Norm Badillo
+Technical Artists
+Mike Badillo
+Glen McKnight
+Justin Rosenthal-Kambic
+Senior Designer
+Aaron Keppel
+Design-Scripting
+Chris Opdahl
+Marty Newcomb
+Joe Morrissey
+Dan Miller
+Technical Director
+David R. Sullivan
+Creative Director
+Micah Russo
+Studio Head
+Mike Mika
+COO
+Larry Kelly
+Senior Producer
+Steven Kovensky
+PR/Marketing
+Communications Manager
+Nicole Tanner
+Communications Assistant
+Sandra Lew
+Sega of America, Inc.[N]Staff Credits
+CEO
+Naoya Tsurumi
+President/COO
+Simon Jeffery
+VP of Product Development
+David Cobb
+Associate Producer
+Jason Kuo
+Technical Director
+Jez Sherlock
+VP Marketing
+Scott Steinberg
+VP Sales
+Sue Hughes-Taigen
+Director of Marketing
+Don Mesa
+Product Manager
+Yosuke Moriya
+PR
+Dana Whitney, One PR
+Creative Services
+Jen Groeling
+Heather Luchetti
+Bridget Oates
+Head of Operations
+Tom Dudley
+Online
+Chris Olson
+Mike Dobbins
+Mastering Lab
+Rey Buzon
+Andrew Byrne
+Rhianna Kellom
+QA Manager
+Deni Skeens
+QA Supervisor
+Josh Morton
+Senior Test Lead
+Shawn Dobbins
+Assistant Leads
+Mike Baldwin
+Anthony Banks
+Ben Seto
+Testers
+Alice Grunstra
+Amber Crouch
+Christian Sutton
+Dane Day
+Emily Sheafe
+Fernando Arce
+Gabriel Parulis
+Jacob Holub
+Jeremy Bell
+Loren Watson
+Marvin Hom
+Terence Destouet
+Tim Erbil
+Teresa Guest
+Tony Soto
+Compliancy Test Lead
+Stephen Akana
+Compliancy Assistant Lead
+Lawrence Mann
+Compliancy Testers
+Steve Fleming
+Joe Floyd
+Jason Mahar
+Sega of Europe Limited[N]Staff Credits
+CEO
+Naoya Tsurumi
+President/COO
+Mike Hayes
+Development Director
+Gary Dunn
+Creative Director
+Matt Woodley
+Director of European Marketing
+Gary Knight
+Head of External Development
+Jim Woods
+Head of Development - Localization
+Kuniyo Matsumoto
+Localization Producer
+Ben Barker
+European PR
+Lynn Daniel
+Kerry Martyn
+Assistant Brand Manager
+Claire Brummell
+Michele Dix
+International Brand Manager
+Ben Chalmers-Stevens
+Operations
+Mark Simmons
+Caroline Searle
+Creative Services
+Tom Bingle
+Alison Warfield
+Morgan Gibbons
+Akane Hiraoka
+Arnoud Tempelaere
+Head of Online Services
+Justin Moodie
+Web Designer
+Bennie Booyson
+Head of Development Services
+Mark Le Breton
+Localization Manager
+Marta Lois González
+Localization Coordinator
+Giuseppe Rizzo
+Translators
+Daniela Kaynert
+Brigitte Nadesan
+Maria Chironi
+Luis Paredes Gómez
+Jay Bannmüller
+Antonella Marras
+Carole Kunzelman
+Antonio Catanese
+Sebàstian Pérez Salguero
+Mastering Group
+John Hegarty
+Roy Boateng
+Jigar Patel
+QA Supervisors
+Marlon Grant
+Stuart Arrowsmith
+Julie Metior
+Senior Team Lead
+George Cover
+Assistant Team Leads
+Mark Cant
+Testers
+Leon Stuart
+Kasim Rehman
+Jamie Bailey
+Standards Coordinator
+Mohammed Ajaib
+Assistant Standards Coordinators
+Justin Amore
+Mike Hanley
+Standards Testers
+Peter Leung
+Shiva Allari
+Nicky Koetze
+Language Coordinators
+Jean Baptiste-Bagot
+Sven Wittmaack
+Language Testers
+Stephane Ramael
+Joe Hellman
+Juan Perez
+Marco Fois
+4 Kids Production, Inc.
+Voice cast
+Jason Griffith
+Dan Green
+Pete Capella
+Mike Pollock
+Amy Palant
+Lisa Ortiz
+Kathleen Delaney
+Voice Directors
+Christopher Collet
+Julie Rath
+Production Coordinator
+Salvatore Oppedisano
+Recording Engineers
+Suzy Goldish
+Paul Grassini
+Mike Knoblauch
+Alon Namdar
+Questar Welsh
+Special Thanks
+Tom Zuber, Matt Osness, Bob Baffy
+Jessica Sigman, Darren Tarnoff,
+Paul and David Chan, Lily, Kitty Tang,
+Marty Hasselbach, Carla St. Pierre,
+Tara Mustapha, Mary Jane,
+Teruko Mizuki, Audrey Bourassa,
+Lisa Poh, NeoGaf, Andrea,
+Tony Rodriguez, Lindsay Morris,
+Matthew Fortini, Geraldine Kor,
+Kim Keskinen, Conner Fan,
+Carlin, Nicole, Karl and Natalie,
+Coleco and Brooke, Brynn.
+Beejey Enriquez
+Mina Provonsha
+Aya Takeuchi
+Lee Brotherton (REMIX FACTORY)
+Sonic Committee
+Presented by
+SEGA® Corporation
+Rival Cup
+Green Chaos Cup
+Cyan Chaos Cup
+Red Chaos Cup
+Yellow Chaos Cup
+Blue Chaos Cup
+Purple Chaos Cup
+Grey Chaos Cup
+Complete All Challenges
+Complete All Zone 1 Challenges
+Complete All Zone 2 Challenges
+Complete All Zone 3 Challenges
+Complete All Zone 4 Challenges
+Complete All Zone 5 Challenges
+Complete All Zone 6 Challenges
+Lose!
+Win!  %d:%02d.%02d
+Knuckles Cup
+Shadow Cup
+Silver Cup
+Cup Circuit
+Sonic Cup
+Blue Chaos Cup
+Cyan Chaos Cup
+Green Chaos Cup
+Grey Chaos Cup
+Purple Chaos Cup
+Red Chaos Cup
+Rival Cup
+Yellow Chaos Cup
+Default
+Delete failed.
+Delete failed.[N][N]The Memory Stick™[N]was removed.
+Easy
+Hard
+Medium
+Easy Challenges Completed
+Memory Stick™  is not found.[N]At least %d KB is needed to save this game's data.[N]Please insert a Memory Stick™.
+Load failed.[N][N]The Memory Stick™[N]was removed during a load process.
+Save failed.[N][N]The Memory Stick™[N]was removed during a save process.
+Load Successful.
+Save Successful.
+Auto-Save Successful.
+There is no data.
+There is no data on the Memory Stick™.
+Loading...
+Saving...
+Do not switch off the PSP®[N]or remove the Memory Stick™.
+There is not enough space on the Memory Stick™.[N]At least %d KB more space is needed[N]to save this game data.
+Demo
+Select
+[XB] Accept
+Cancel
+Back
+Main Menu
+Option
+Yes
+No
+Do you want to quit the game?
+Load failed.[N]Save data is corrupted.
+Lobby join failed.
+The lobby is full.
+Disconnected from Wireless session.
+You entered Sleep Mode.
+The Wireless session was aborted.
+You have been disconnected by the host.
+Group create failed, try again. 
+Turn ON WLAN Switch for Wireless play.
+Unable to Initialize Network, Wireless Session Aborted. Returning to Main Menu.
+Unable to Initialize Wireless session.
+Load failed.[N]Data is corrupted.
+Wireless Session Aborted.
+Unable to connect to host for Wireless session.
+Your WLAN switch is OFF.
+Failed to connect to the wireless game session.
+You entered Sleep Mode.
+Disconnected from Wireless game session.
+You have lost connection to the host, your Wireless game session is over. Returning to the Main Menu.
+A network error occurred. The WLAN switch is OFF.
+A network error occurred. Network initialization failed.
+A network error has occurred. You have been disconnected from the network.
+Load failed.[N]Data on the Memory Stick™ is corrupted.
+Retry
+Try again
+Abort
+Unable to connect to client for Wireless session. Returning to the Main Menu.
+Unable to connect. Aborting.
+Returning to Main Menu.
+Connecting to the host...
+Connecting to the client...
+Joining please wait..
+Initializing Wireless please wait...
+Auto-Save failed.
+Do you wish to overwrite existing game data?
+PSP® (PlayStation®Portable)
+Your WLAN switch is off.
+Turn on WLAN switch for Wireless play.
+You entered sleep mode.
+Failed to connect to the wireless game session.
+Disconnected from wireless session.
+Unable to initialize wireless session.
+The WLAN switch is off.
+Initializing wireless please wait...
+This game saves data automatically at certain points.[N]Do not remove the Memory Stick™[N]or switch off the PSP® when the[N]Memory Stick™ access indicator is flashing.
+Waiting for other player to join...
+Please select language:
+English
+French
+Japanese
+German
+Spanish
+Selected language is not supported.  Please choose another language.
+profile 1
+profile 2
+The title entered and exited sleep mode.[N]Load failed.
+profile 3
+Please select profile:
+Are you sure you want to delete?
+Are you sure you want to DELETE?
+Are you sure you want to delete all game data?
+Are you sure you want to DELETE all game data?
+(This will restore all default settings)
+Continue without a save game profile
+Continue without saving
+Save failed.
+The title entered and exited sleep mode.[N]Save failed.
+The Memory Stick™ has changed.[N]Would you like to save your game data[N]on this Memory Stick™?
+There is not enough space on the Memory Stick™.[N]At least %d KB more space is needed[N]to save this game data.[N][N]Would you like to delete game data?
+Other player has quit the game.
+If you choose to create a new profile, your[N]game progress to this point will not be saved.[N]Are you sure you want to[N]create a new profile? 
+A network error occurred. Cannot connect to other players.
+Best Time:
+Finished!
+ !#$%&'()*+,-./0123456789:;<=>?@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`a
+bcdefghijklmnopqrstuvwxyz{|}~¡¢£¤
+¥¦§¨©ª«¬®¯°±²³ µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆ
+ÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçè
+éêëìíîïðñòóôõö÷øùúûüýþÿ’“„…、。々
+for Knuckles
+for Shadow
+for Silver
+for Sonic
+GameIntro
+Summary
+Get Ready.
+Global
+Gloves
+Go!
+Hard Challenges Completed
+Highest num. of Attacks
+Highest num. of Boosts
+Highest num. of Rings
+Highest Score
+DEMO MODE
+Crystal Mountain Zone
+Join
+Join Game
+Death Yard Zone
+Knuckles Loses
+Knuckles Wins
+Leather
+Eggman
+Armor
+Leather
+Eggman
+Armor
+Leather
+Eggman
+Armor
+Leather
+Jester
+Circuits
+Leather
+Jester
+Circuits
+Leather
+Jester
+Circuits
+Leather
+80's
+Flame
+Leather
+80's
+Flame
+Leather
+80's
+Flame
+Leather
+Christmas
+Lightning
+Leather
+Christmas
+Lightning
+Leather
+Christmas
+Lightning
+Leather
+Black Tie
+Ice
+Leather
+Black Tie
+Ice
+Leather
+Black Tie
+Ice
+LevelMusic_Lose
+LevelMusic_Win
+Load failed.
+Load Game
+Loading...
+Load Profile
+Hint 00
+Hint 1
+Hint 2
+Hint 3
+Hint 04
+Hint 05
+Hint 06
+Hint 07
+Hint 08
+Hint 09
+Hint 10
+Hint 11
+Locked
+Main Menu
+Medium Challenges Completed
+Metal Sonic Loses
+Metal Sonic Unlocked
+Metal Sonic Wins
+Meteor Base Zone
+Wireless Play
+Music
+New!
+New Game
+New Profile
+New Record!
+#1
+#2
+No Wager
+Off
+On
+Options
+Knuckles Leather Gloves Unlocked
+Knuckles Eggman Gloves Unlocked
+Knuckles Armor Gloves Unlocked
+Knuckles Leather Shoes Unlocked
+Knuckles Eggman Shoes Unlocked
+Knuckles Armor Shoes Unlocked
+Knuckles Leather Suit Unlocked
+Knuckles Eggman Suit Unlocked
+Knuckles Armor Suit Unlocked
+%s's Leather Gloves Unlocked
+%s's Jester Gloves Unlocked
+%s's Circuits Gloves Unlocked
+%s's Leather Shoes Unlocked
+%s's Jester Shoes Unlocked
+%s's  Circuits Shoes Unlocked
+%s's Leather Suit Unlocked
+%s's Jester Suit Unlocked
+%s's  Circuits Suit Unlocked
+Shadow's Leather Gloves Unlocked
+Shadow's 80's Gloves Unlocked
+Shadow's Flame Gloves Unlocked
+Shadow's Leather Shoes Unlocked
+Shadow's 80's Shoes Unlocked
+Shadow's Flame Shoes Unlocked
+Shadow's Leather Suit Unlocked
+Shadow's 80's Suit Unlocked
+Shadow's  Flame Suit Unlocked
+Silver's Leather Gloves Unlocked
+Silver's Christmas Gloves Unlocked
+Silver's Lightning Gloves Unlocked
+Silver's Leather Shoes Unlocked
+Silver's Christmas Shoes Unlocked
+Silver's  Lightning Shoes Unlocked
+Silver's Leather Suit Unlocked
+Silver's Christmas Suit Unlocked
+Silver's Lightning Suit Unlocked
+Sonic's Leather Gloves Unlocked
+Sonic's Black Tie Gloves Unlocked
+Sonic's Ice Gloves Unlocked
+Sonic's Leather Shoes Unlocked
+Sonic's Black Tie Shoes Unlocked
+Sonic's Ice Shoes Unlocked
+Sonic's Leather Suit Unlocked
+Sonic's Black Tie Suit Unlocked
+Sonic's Ice Suit Unlocked
+Outfits
+Gloves
+Shoes
+Suit
+Sonic's Suits
+% of Story Complete:
+Place Wager
+Accept Wager
+Cancel Wager
+Rival Wager
+Your Wager
+Player Data
+Press START button
+Press [CB] to Cancel Connect
+Press [CB] to Cancel Game
+Profile 1
+Profile 2
+Profile 3
+Quit
+Cups
+Record vs CPU
+Record vs Player
+1:13:03
+Reset to factory defaults
+Restart Race
+Rings:
+75
+7,500
+Save cancelled.[N][N]You will not be able to use the autosave[N]feature until you save your game.
+Save failed.
+Save Profile
+sega
+Select
+
+Select Cards
+Select Character
+Select Cup
+Select Difficulty
+Select Game Host
+Select Outfit
+Change Profile
+Select Rival
+Select Stage
+select trading host
+Set
+SFX
+Shadow Loses
+Shadow Wins
+Shoes
+Silver Loses
+Silver Wins
+Single Player
+Single Race
+Knuckles Skin Unlocked
+Metal Sonic Skin Unlocked
+Skins
+Shadow Skin Unlocked
+Silver Skin Unlocked
+Sonic Skin Unlocked
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+sonicvideo
+Sonic Loses
+Sonic Wins
+startup
+Story
+Suits
+Summary
+Time:
+3:40:30
+14,000
+Glowing Boost objects[N]can be found throughout the level.[N]Press [XB] to Air Boost or [CB] to Speed Boost!
+Illusion Offensive: Mess up your Rival's screen![N]Defensive: Drop a small orb of Illusion that will distort your Rival's screen!
+Wind Offensive: Throw a tornado forward that will toss your Rival up into the air![N]Defensive: Drop a tornado trap that will hurl your Rival into the sky!
+Ring Magnet Offensive/Defensive: Attract nearby Rings to you!
+Mine Offensive: Launch a homing mine that will track your Rival![N]Defensive: Drop a depth charge that will explode if your Rival gets near it!
+Sonic's Signature Move is Sonic Boom. He can fly through the air and then run with a burst of crazy speed!
+Knuckles' Signature Move is his Hammer Punch. It stuns his Rival, wherever he is!
+Shadow's Signature Move is Chaos Control. He can slow time for his Rival!
+Silver's Signature Move is ESP. He can scramble his Rival's controls!
+Press [CB] when near your Rival to push him to the ground and make him lose Rings!
+Air Boosting [XB] can open up new paths for you to explore!
+Use the homing attack on your Rival (press [XB] twice) to leapfrog into the air and make him lose Rings!
+Jostling your Rival will get you a higher score!
+Leapfrog over your Rival to reach higher areas!
+You lose 10 Rings whenever you get injured.
+Collect Rings to add to your level score!
+If you get injured when you have zero Rings, you will lose valuable time while you respawn.
+Collect Rings to complete Challenges!
+Push, leapfrog, and Power-Up your Rival to knock his Rings loose!
+Follow Ring trails to find new paths and items.
+Complete Challenges in Challenge Mode to earn cards.
+Air Boosting [XB] might help you find a much-needed Power-Up!
+Collect sets of Cards to unlock new content!
+Collect all Cards to see cool images!
+Cards can unlock track suits, Race Cups, and more!
+You can trade cards with your friends via Card Trade!
+Collect Chaos Emerald Cards to unlock new Race Cups.
+See all your cards in Card Collection Mode.
+You can wager cards against your Rival in Wireless Play races. Winner takes all!
+Complete Story modes to access menu colors for each character!
+Venoom - A large robotic arachnid queen that resides deep in the forests of the Forest Falls Zone.
+Vultur: This mechanical vulture threatens with its steel talons in the Colosseum Highway Zone.
+Speed Boosting [CB] will help you clear obstacles and destroy enemies in your path!
+MonoClown: Eggman's latest creation rolls along and punches any interlopers in Sky Park Zone.
+Yetee: He's big, angry, and programmed to defend the frozen tracks of Crystal Mountain Zone!
+Metal Hound: This terrifying technobot patrols the Death Yard Zone and is eager to sink his metal teeth into any intruders.
+Drill Worm: This large mechanical worm bristles with spikes and makes its home in the Meteor Base Zone.
+You can use your homing attack (press [XB] twice) to destroy enemies!
+Flapper shoots homing missiles - watch out!
+EggPawns patrol all the Zones, eager to do Eggman's bidding.
+You can bounce off of enemies to access hard to reach platforms and even jump over pits!
+Forest Falls Zone: Hit the Egg Turtle's head for damage, or hit the tail to stop your rival!
+Colosseum Highway Zone: Jump on the Egg Falcon's head when he swoops down low! But watch out for his bombs!
+Speed Boosting [CB] will help you zip past your Rival!
+Crystal Mountain Zone: Jump from the paws of the Egg Lynx while they're lowered to hit Eggman's capsule!
+Death Yard Zone: Freeze your Rival by boosting off stuck missiles, then attack the Brain Capsule when it emerges!
+Meteor Base Zone: Fight your way through the hazards and smash Eggman's Laser-Turrets to stop the Rocket!
+Boosting will help you collect more Power-Ups and Rings.
+Fire Offensive: Blast your Rivals with a fireball![N]Defensive: Protect yourself with a fire shield!
+Ice Offensive: Freeze your Rivals solid with an ice bolt![N]Defensive: Drop a snowbank that will slow your Rival!
+Rivals_Title
+Titles
+Score:
+45,500
+Trade Accepted
+Trade Complete
+Trade Offered
+UIMusic
+%s Unlocked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Whole Game is Unlocked
+View Collection
+View Trading Cards/Sets
+View Unlockables
+Sound
+Vs Record COM
+Vs Record HMN
+Wager Cards
+Wager Offered
+Waiting for second player to join...
+Waiting...
+Watch Video
+Forest Falls Zone
+Perform at least %s boosts
+Defeat boss before Rival
+Defeat boss in %s or less
+Hit Rival with %s Power-Ups
+Jostle Rival at least %s times
+Win with at least %s Rings
+Win in %s or less
+Zone 1 - Forest Falls
+Forest Falls Zone - Act 1
+Forest Falls Zone - Act 2
+Forest Falls Zone - Boss
+Zone 1
+Zone 2 - Colosseum Highway
+Colosseum Highway Zone - Act 1
+Colosseum Highway Zone - Act 2
+Colosseum Highway Zone - Boss
+Zone 2
+Zone 3 - Sky Park
+Sky Park Zone - Act 1
+Sky Park Zone - Act 2
+Sky Park Zone - Boss
+Zone 3
+Zone 4 - Crystal Mountain
+Crystal Mountain Zone - Act 1
+Crystal Mountain Zone - Act 2
+Crystal Mountain Zone - Boss
+Zone 4
+Zone 5 - Death Yard
+Death Yard Zone - Act 1
+Death Yard Zone - Act 2
+Death Yard Zone - Boss
+Zone 5
+Zone 6 - Meteor Base
+Meteor Base Zone - Act 1
+Meteor Base Zone - Act 2
+Meteor Base Zone - Boss
+Zone 6
+Unknown
+????
+[XB]
