@@ -1,18 +1,18 @@
 1574	0xF252C004
-All Challenges
-All Zone 1 Challenges
-All Zone 2 Challenges
-All Zone 3 Challenges
-All Zone 4 Challenges
-All Zone 5 Challenges
-All Zone 6 Challenges
-You have won a Card!
-All Stories
-Knuckles Story Complete
-Shadow Story Complete
-Silver Story Complete
-Sonic Story Complete
-Rings Won
+Todos os desafios
+Todos os desafios da zona 1
+Todos os desafios da zona 2
+Todos os desafios da zona 3
+Todos os desafios da zona 4
+Todos os desafios da zona 5
+Todos os desafios da zona 6
+Você ganhou uma carta!
+Todas as histórias
+História do Knuckles completa
+História do Shadow completa
+História do Silver completa
+História do Sonic completa
+Rings Won Anéis ganhos
 Win Time
 Boosts Performed
 Jostle Rival
@@ -503,30 +503,30 @@ Eggman NEGA... It looks like he lost control of his machine, and got turned into
 As soon as I can collect the other cards, and take care of Eggman NEGA's mess, I'll head back to the future...
 This time frame will be fine, so long as they're around...
 Those blue and black hedgehogs certainly are brave...
-Ho ho ho ho!
-Wait! Come back here!
-No hard feelings, Sonic, but this time there's no way you're gonna beat me!
-Okay, Knuckles... Then let's race for it! First one who gets to Eggman takes all!
-Ho ho ho ho![N]It's been a while, hasn't it, Sonic?
-Hey, Eggman![N]What have you done with Amy and Tails!?
-Not to worry, they're sound asleep inside these cards.
-Hey, Eggman!
-The Master Emerald is gone...[N]I'll bet you're behind this, aren't you?!
-Heh heh heh... Yes, that's right!
-This camera lets me turn anything into a card...
-And I'll use it to create the ultimate card collection!
-If either of you want these cards, you'll need to catch me first!
-All right, Eggman![N]Hand over those cards!
-Hmm... I suppose if you win my little contest, I could give you a card of your choosing.
-What!?[N]That's not what you said before!
-Heh! Pretty much what I expected from you, Eggman. Okay, bring it on!
-Grr! I'll get you, Sonic!
-Hey, get back here, Eggman!
-Get out of my way, I've got some personal business to take care of.
-Hey! You sure have an attitude.[N]Who are you, anyway?
-My name is Silver...
-I can't tell you why, but I need to get to him before you.
-Okay, Silver.[N]Bring it on... I like challenges!
+O-ho-ho-ho!
+Espera, volta aqui!
+Sem ressentimentos, Sonic, mas dessa vez não tem como você me vencer!
+Ok, Knuckles... Então vamos apostar uma corrida! O primeiro que chegar no Eggman fica com tudo!
+O-ho-ho-ho![N]Há quanto tempo, não é, Sonic?
+Ei, Eggman![N]O que você fez com a Amy e o Tails!?
+Não se preocupe, eles estão tirando um cochilo dentro dessas cartas.
+Você, Eggman!
+A Esmeralda Mestre se foi...[N]Aposto que tem dedo seu nisso, não é!?
+Heh heh heh... Na mosca!
+Essa câmera me permite transformar qualquer coisa em uma carta...
+E eu vou usá-la pra criar a coleção suprema!
+Se qualquer um de vocês quiserem essas cartas, vão ter que me pegar primeiro!
+Beleza, Eggman![N]Manda essas cartas pra cá!
+Hmm... Eu supus que se você ganhasse meu pequeno desafio, eu poderia te dar a carta que você escolhesse.
+O quê!?[N]Não foi isso que você disse antes!
+Heh! Eu já esperava isso de você, Eggman. Beleza, manda ver!
+Grr! Você me paga, Sonic!
+Ei, volta aqui, Eggman!
+Saia do meu caminho, tenho negócios pessoais pra resolver.
+Ei! Com certeza você tem atitude.[N]Quem é você, mesmo?
+Meu nome é Silver...
+Não posso te dizer o porquê, mas eu preciso chegar nele antes de você.
+Ok, Silver.[N]Manda ver, eu gosto de desafios!
 Okay! Now hand over those cards!
 Grrrrr...
 Hey! Move aside. I already told you I need to talk to him first.
@@ -622,10 +622,10 @@ Y-Yeah... There might be some others trapped in the cards that need rescuing...
 1
 2
 3
-Act 1
-Act 2
-Boss
-Sky Park Zone
+Ato 1
+Ato 2
+Chefe
+Zona Sky Park
 All
 The five boxing wizards jump quickly.
 The five boxing[N]wizards jump quickly.
@@ -635,7 +635,7 @@ Attacks:
 30
 5000
 Autosave
-Back
+Voltar
 backbone
 Best Time
 
@@ -644,7 +644,7 @@ Boosts:
 14,000
 © SEGA
 Card
-Card Collection
+Coleção de Cartas
 Complete Easy Challenges to unlock this Common Card
 Complete all Colosseum Highway Challenges to unlock this Unique Card
 Complete all Sky Park Challenges to unlock this Unique Card
@@ -671,8 +671,8 @@ You'll Receive
 Card Won!
 Challenge Complete!
 Challenge Log
-Challenge
-Change Outfit
+Desafio
+Mudar o visual
 Profiles
 Chaos Cup One
 Chaos Cup Two
@@ -696,14 +696,14 @@ SONIC
 Choose Your Character
 Clear Data
 Delete
-Colosseum Highway Zone
+Zona Colosseum Highway
 Congratulations!
 Congratulations!
 Connecting
-Continue
-Create
-Create Game
-Credits
+Continuar
+Criar
+Criar Jogo
+Créditos
 Sonic Rivals Credits
 Project Director
 Takashi Iizuka
@@ -1047,7 +1047,7 @@ Aya Takeuchi
 Lee Brotherton (REMIX FACTORY)
 Sonic Committee
 Presented by
-SEGA® Corporation
+SEGA® Corporation - Traduzido por Green Speed Studio
 Rival Cup
 Green Chaos Cup
 Cyan Chaos Cup
@@ -1068,7 +1068,7 @@ Win!  %d:%02d.%02d
 Knuckles Cup
 Shadow Cup
 Silver Cup
-Cup Circuit
+Torneio
 Sonic Cup
 Blue Chaos Cup
 Cyan Chaos Cup
@@ -1101,7 +1101,7 @@ Demo
 Select
 [XB] Accept
 Cancel
-Back
+Voltar
 Main Menu
 Option
 Yes
@@ -1256,10 +1256,10 @@ Black Tie
 Ice
 LevelMusic_Lose
 LevelMusic_Win
-Load failed.
-Load Game
-Loading...
-Load Profile
+O carregamento falhou.
+Carregar Jogo
+Carregando...
+Carregar Perfil
 Hint 00
 Hint 1
 Hint 2
@@ -1279,7 +1279,7 @@ Metal Sonic Loses
 Metal Sonic Unlocked
 Metal Sonic Wins
 Meteor Base Zone
-Wireless Play
+Jogo Remoto
 Music
 New!
 New Game
@@ -1290,7 +1290,7 @@ New Record!
 No Wager
 Off
 On
-Options
+Opções
 Knuckles Leather Gloves Unlocked
 Knuckles Eggman Gloves Unlocked
 Knuckles Armor Gloves Unlocked
@@ -1368,17 +1368,17 @@ Save cancelled.[N][N]You will not be able to use the autosave[N]feature until yo
 Save failed.
 Save Profile
 sega
-Select
+Selecionar
 
 Select Cards
-Select Character
-Select Cup
-Select Difficulty
-Select Game Host
-Select Outfit
-Change Profile
-Select Rival
-Select Stage
+Selecione o personagem
+Selecione o torneio
+Selecione a dificuldade
+Selecione o hospedeiro
+Selecione o visual
+Mudar o perfil
+Selecione o rival
+Selecione a fase
 select trading host
 Set
 SFX
@@ -1387,8 +1387,8 @@ Shadow Wins
 Shoes
 Silver Loses
 Silver Wins
-Single Player
-Single Race
+Jogo Solo
+Corrida Única
 Knuckles Skin Unlocked
 Metal Sonic Skin Unlocked
 Skins
@@ -1410,7 +1410,7 @@ sonicvideo
 Sonic Loses
 Sonic Wins
 startup
-Story
+Modo História
 Suits
 Summary
 Time:
