@@ -12,25 +12,25 @@ História do Knuckles completa
 História do Shadow completa
 História do Silver completa
 História do Sonic completa
-Rings Won Anéis ganhos
-Win Time
-Boosts Performed
-Jostle Rival
-Power-Ups hit on Rival
-Defeat boss first
-Win Rings
-Win Time
+Anéis ganhos
+Tempo de vitória
+Turbos realizados
+Empurrar rival
+Poderes atingidos no rival
+Vença o chefe primeiro
+Ganhe anéis
+Ganhe tempo
 BGM_kooky BGM_dove
 BGM_kooky
 [CB]
-Win with %d rings
-Defeat boss in %2d:%02d
-Jostle Rival %d times
-Win with %d Rings
-Win in %2d:%02d
-Perform %d boosts
-Jostle Rival %d times
-Hit Rival with %d Power-Ups
+Vença com %d anéis
+Derrote o chefe em %2d:%02d
+Empurre o rival %d vezes
+Vença com %d anéis
+Vença em %2d:%02d
+Realize %d turbos
+Empurre o rival %d vezes
+Atinga o rival com %d poderes
 English
 PowerUp Test Room
 Test Room 1
@@ -44,24 +44,24 @@ Test Room 6
 Test Room 7
 Test Room 8
 Test Room 9
-Zone 1 Act 1
-Zone 1 Act 2
-Zone 1 Boss
-Zone 2 Act 1
-Zone 2 Act 2
-Zone 2 Boss
-Zone 3 Act 1
-Zone 3 Act 2
-Zone 3 Boss
-Zone 4 Act 1
-Zone 4 Act 2
-Zone 4 Boss
-Zone 5 Act 1
-Zone 5 Act 2
-Zone 5 Boss
-Zone 6 Act 1
-Zone 6 Act 2
-Zone 6 Boss
+Zona 1 Act 1
+Zona 1 Act 2
+Zona 1 Boss
+Zona 2 Act 1
+Zona 2 Act 2
+Zona 2 Boss
+Zona 3 Act 1
+Zona 3 Act 2
+Zona 3 Boss
+Zona 4 Act 1
+Zona 4 Act 2
+Zona 4 Boss
+Zona 5 Act 1
+Zona 5 Act 2
+Zona 5 Boss
+Zona 6 Act 1
+Zona 6 Act 2
+Zona 6 Boss
 Test
 Test
 Test
@@ -74,24 +74,24 @@ Test
 Test
 Test
 Test
-Zone 1
-Zone 1
-Zone 1
-Zone 2
-Zone 2
-Zone 2
-Zone 3
-Zone 3
-Zone 3
-Zone 4
-Zone 4
-Zone 4
-Zone 5
-Zone 5
-Zone 5
-Zone 6
-Zone 6
-Zone 6
+Zona 1
+Zona 1
+Zona 1
+Zona 2
+Zona 2
+Zona 2
+Zona 3
+Zona 3
+Zona 3
+Zona 4
+Zona 4
+Zona 4
+Zona 5
+Zona 5
+Zona 5
+Zona 6
+Zona 6
+Zona 6
 Are you sure?
 Are you sure you
 No
@@ -106,9 +106,9 @@ back [CB]
 
 Pause...
 QUIT GAME
-Restart Level
-Are you sure you want to restart the level?
-Resume
+Reiniciar nível
+Você tem certeza que quer reiniciar o nível?
+Continuar
 save [XB]
 Save Game...
 [XB] Select
@@ -626,23 +626,23 @@ Ato 1
 Ato 2
 Chefe
 Zona Sky Park
-All
+Todos
 The five boxing wizards jump quickly.
 The five boxing[N]wizards jump quickly.
 Apply
 Attack!
-Attacks:
+Ataques:
 30
 5000
-Autosave
+Salvamento Automático
 Voltar
 backbone
-Best Time
+Melhor tempo
 
-Boosts:
+Turbos:
 28
 14,000
-© SEGA
+© SEGA - Traduzido por Green Speed Studio
 Card
 Coleção de Cartas
 Complete Easy Challenges to unlock this Common Card
@@ -659,8 +659,8 @@ Complete Story Mode with Shadow to unlock this Unique Card
 Complete Story Mode with Silver to unlock this Unique Card
 Complete all Story Modes to unlock this Unique Card
 Complete all Forest Falls Challenges to unlock this Unique Card
-Cards Collected
-Cards Won
+Cartas coletadas
+Cartas ganhas
 Trade
 Accept
 Add
@@ -668,12 +668,12 @@ Cancel
 Remove
 Your Offer
 You'll Receive
-Card Won!
-Challenge Complete!
+Carta Ganha!
+Desafio Completo!
 Challenge Log
 Desafio
 Mudar o visual
-Profiles
+Perfis
 Chaos Cup One
 Chaos Cup Two
 Chaos Cup Three
@@ -682,7 +682,7 @@ Chaos Cup Five
 Chaos Cup Six
 Chaos Cup Seven
 Chaos Cup Eight
-Character
+Personagens
 Knuckles
 KNUCKLES
 Metal Sonic
@@ -695,53 +695,53 @@ Sonic
 SONIC
 Choose Your Character
 Clear Data
-Delete
+Deletar
 Zona Colosseum Highway
-Congratulations!
-Congratulations!
-Connecting
+Parabéns!
+Parabéns!
+Conectando...
 Continuar
 Criar
 Criar Jogo
 Créditos
-Sonic Rivals Credits
-Project Director
+Créditos de Sonic Rivals
+Diretor de Projeto
 Takashi Iizuka
-Project Associate Producer
+Produtor Associado de Projeto
 Keith Palmer
-Art Supervisors
+Supervisores de Arte
 Kazuyuki Hoshino
 Hiroshi Nishiyama
-Sound Supervisor
+Supervisor de Som
 Jun Senoue
-Concept Design & Scenario
+Design de Conceitos & Cenário
 Takashi Iizuka
-Character Artwork
+Arte de Personagem
 Kazuyuki Hoshino
 Backbone Entertainment[N]Vancouver
-Producer
+Produtor
 Taylor Miller
-Lead Engineer
+Engenheiro Chefe
 Peter Phillips
-Lead Designer
+Designer Chefe
 Tyler Sigman
-Lead Artist
+Artista Chefe
 Chris Bourassa
-Senior Designer
+Designer Sênior
 Derek Tam
-Lead Level Designer
+Designer de Nível Chefe
 Eric Emery
-Lead Level Artist
+Artista de Nível Chefe
 Mabel Chan
-Effects Artist and Animation Coordinator
+Artista de Efeitos e Coordenador de Animação
 Daniel Lam
-Technical Artist
+Artista Técnico
 Eric Ronay
-Lead Animator
+Animador Chefe
 Karen Matskiw-Rodriguez
-Associate Producer
+Produtor Associado
 Zoë Curnoe
-Engineers
+Engenheiros
 Aaron Koenig
 Brian Provinciano
 Chuck Chow
@@ -762,7 +762,7 @@ Cory Hasselbach
 Kyle Mohammed
 Nick Letizia
 Richard Knight
-Artists
+Artistas
 Aaron Parrott
 Beth Dewhirst
 Brent Kirby
@@ -771,22 +771,22 @@ John Mah
 Kate Freeman
 Kim Sawula
 Shane Holmes
-Animators
+Animadores
 Chun Sin Loh
 Duncan Lin
-Front End Artist
+Artista Front-End
 Mark Pearce
-Additional Design Assistance
+Assistência de Design Adicional
 Josh Zisserson
 Michael K. Donovan
-Studio Quality Assurance
+Garantia de Qualidade de Estúdio
 Tom "MrLuigi" McGarry
-Testing Provided by QA Labs
+Testes Fornecidos por QA Labs
 Justin Bruckal
 Chris Love
-Music Composer
+Compositor Musical
 Chris Rezanson
-Sound Effects Design
+Design de Efeitos Sonoros
 OMNI Interactive Audio
 Alistair Hirst
 Robert Ridihalgh
@@ -794,110 +794,110 @@ Daylon Walden
 Tom Smurdon
 Chase Combs
 Lisa Elliott Cobb
-Senior Producer
+Produtor Sênior
 Ivan Allan
-Assistant Producer
+Produtor Assistente
 Jarett Metcalfe
-Studio Head
+Chefe de Estúdio
 Joe Bonar
-Technical Director
+Diretor Técnico
 George Phillips
-Creative Director
+Diretor Criativo
 Trent Ward
-Art Director
+Diretor de Arte
 Ryan Slemko
-Business Development
+Desenvolvimento de Negócios
 Jim Sink
 Backbone Entertainment[N]Emeryville
-CORE Engine Team
-Senior Engineer
+Equipe CORE Engine
+Engenheiro Sênior
 Ian McLean
-Reaper Engine Team
-Senior Engineers
+Equipe Reaper Engine
+Engenheiros Sênior
 David Aldridge
 Isaac Bender
 Tanio Klyce
 Peter Phillips
-Engineers
+Engenheiros
 Rocco Balsamo
 Dan Halpern
 Benn Herrera
 Chris Marsh
 Ian Sherman
 J. Wilburn
-Senior Technical Artist
+Artista Técnico Sênior
 Norm Badillo
-Technical Artists
+Artistas Técnicos
 Mike Badillo
 Glen McKnight
 Justin Rosenthal-Kambic
-Senior Designer
+Designer Sênior
 Aaron Keppel
-Design-Scripting
+Script de Design
 Chris Opdahl
 Marty Newcomb
 Joe Morrissey
 Dan Miller
-Technical Director
+Diretor Técnico
 David R. Sullivan
-Creative Director
+Diretor Criativo
 Micah Russo
-Studio Head
+Chefe de Estúdio
 Mike Mika
-COO
+Diretor de Operações
 Larry Kelly
-Senior Producer
+Produtor Sênior
 Steven Kovensky
-PR/Marketing
-Communications Manager
+Relações Públicas/Marketing
+Gerente de Comunicações
 Nicole Tanner
-Communications Assistant
+Assistente de Comunicações
 Sandra Lew
-Sega of America, Inc.[N]Staff Credits
-CEO
+Sega of America, Inc.[N]Créditos da Equipe
+Diretor-executivo
 Naoya Tsurumi
-President/COO
+Presidente/Chefe de Operações
 Simon Jeffery
-VP of Product Development
+Vice-presidente de Desenvolvimento de Produto
 David Cobb
-Associate Producer
+Produtor Associado
 Jason Kuo
-Technical Director
+Diretor Técnico
 Jez Sherlock
-VP Marketing
+Vice-presidente de Marketing
 Scott Steinberg
-VP Sales
+Vice-presidente de Vendas
 Sue Hughes-Taigen
-Director of Marketing
+Diretor de Marketing
 Don Mesa
-Product Manager
+Gerente de Produto
 Yosuke Moriya
-PR
+Relações Públicas
 Dana Whitney, One PR
-Creative Services
+Serviços Criativos
 Jen Groeling
 Heather Luchetti
 Bridget Oates
-Head of Operations
+Chefe de Operações
 Tom Dudley
-Online
+Modo Online
 Chris Olson
 Mike Dobbins
-Mastering Lab
+Laboratório de Masterização
 Rey Buzon
 Andrew Byrne
 Rhianna Kellom
-QA Manager
+Gerente de Garantia de Qualidade
 Deni Skeens
-QA Supervisor
+Supervisor de Garantia de Qualidade
 Josh Morton
-Senior Test Lead
+Chefe de Testes Sênior
 Shawn Dobbins
-Assistant Leads
+Chefes Assistentes
 Mike Baldwin
 Anthony Banks
 Ben Seto
-Testers
+Testadores
 Alice Grunstra
 Amber Crouch
 Christian Sutton
@@ -913,59 +913,59 @@ Terence Destouet
 Tim Erbil
 Teresa Guest
 Tony Soto
-Compliancy Test Lead
+Chefe de Teste de Conformidade
 Stephen Akana
-Compliancy Assistant Lead
+Chefe Assistente de Conformidade
 Lawrence Mann
-Compliancy Testers
+Testadores de Conformidade
 Steve Fleming
 Joe Floyd
 Jason Mahar
-Sega of Europe Limited[N]Staff Credits
-CEO
+Sega of Europe Limited[N]Créditos da Equipe
+Diretor-executivo
 Naoya Tsurumi
-President/COO
+Presidente/Diretor de Operações
 Mike Hayes
-Development Director
+Diretor de Desenvolvimento
 Gary Dunn
-Creative Director
+Diretor Criativo
 Matt Woodley
-Director of European Marketing
+Diretor de Marketing Europeu
 Gary Knight
-Head of External Development
+Chefe de Desenvolvimento Externo
 Jim Woods
-Head of Development - Localization
+Chefe de Desenvolvimento - Localização
 Kuniyo Matsumoto
-Localization Producer
+Produtor de Localização
 Ben Barker
-European PR
+Relações Públicas Europeias
 Lynn Daniel
 Kerry Martyn
-Assistant Brand Manager
+Assistente de Gerente de Marca
 Claire Brummell
 Michele Dix
-International Brand Manager
+Gerente de Marca Internacional
 Ben Chalmers-Stevens
-Operations
+Operações
 Mark Simmons
 Caroline Searle
-Creative Services
+Serviços Criativos
 Tom Bingle
 Alison Warfield
 Morgan Gibbons
 Akane Hiraoka
 Arnoud Tempelaere
-Head of Online Services
+Chefe de Serviços Online
 Justin Moodie
 Web Designer
 Bennie Booyson
-Head of Development Services
+Chefe de Serviços de Desenvolvimento
 Mark Le Breton
-Localization Manager
+Gerente de Localização
 Marta Lois González
-Localization Coordinator
+Coordenador de Localização
 Giuseppe Rizzo
-Translators
+Tradutores
 Daniela Kaynert
 Brigitte Nadesan
 Maria Chironi
@@ -975,41 +975,41 @@ Antonella Marras
 Carole Kunzelman
 Antonio Catanese
 Sebàstian Pérez Salguero
-Mastering Group
+Grupo de Masterização
 John Hegarty
 Roy Boateng
 Jigar Patel
-QA Supervisors
+Supervisores de Garantia de Qualidade
 Marlon Grant
 Stuart Arrowsmith
 Julie Metior
-Senior Team Lead
+Chefe da Equipe Sênior
 George Cover
-Assistant Team Leads
+Chefes da Equipe Assistente
 Mark Cant
-Testers
+Testadores
 Leon Stuart
 Kasim Rehman
 Jamie Bailey
-Standards Coordinator
+Coordenador de Padronização
 Mohammed Ajaib
-Assistant Standards Coordinators
+Coordenadores de Padronização Assistentes
 Justin Amore
 Mike Hanley
-Standards Testers
+Testadores de Padronização
 Peter Leung
 Shiva Allari
 Nicky Koetze
-Language Coordinators
+Coordenadores de Idioma
 Jean Baptiste-Bagot
 Sven Wittmaack
-Language Testers
+Testadores de Idioma
 Stephane Ramael
 Joe Hellman
 Juan Perez
 Marco Fois
 4 Kids Production, Inc.
-Voice cast
+Elenco de Voz
 Jason Griffith
 Dan Green
 Pete Capella
@@ -1017,18 +1017,18 @@ Mike Pollock
 Amy Palant
 Lisa Ortiz
 Kathleen Delaney
-Voice Directors
+Diretores de Voz
 Christopher Collet
 Julie Rath
-Production Coordinator
+Coordenador de Produção
 Salvatore Oppedisano
-Recording Engineers
+Engenheiros de Gravação
 Suzy Goldish
 Paul Grassini
 Mike Knoblauch
 Alon Namdar
 Questar Welsh
-Special Thanks
+Agradecimentos Especiais
 Tom Zuber, Matt Osness, Bob Baffy
 Jessica Sigman, Darren Tarnoff,
 Paul and David Chan, Lily, Kitty Tang,
@@ -1046,23 +1046,23 @@ Mina Provonsha
 Aya Takeuchi
 Lee Brotherton (REMIX FACTORY)
 Sonic Committee
-Presented by
-SEGA® Corporation - Traduzido por Green Speed Studio
-Rival Cup
-Green Chaos Cup
-Cyan Chaos Cup
-Red Chaos Cup
-Yellow Chaos Cup
-Blue Chaos Cup
-Purple Chaos Cup
-Grey Chaos Cup
-Complete All Challenges
-Complete All Zone 1 Challenges
-Complete All Zone 2 Challenges
-Complete All Zone 3 Challenges
-Complete All Zone 4 Challenges
-Complete All Zone 5 Challenges
-Complete All Zone 6 Challenges
+Apresentado por
+SEGA® Corporation[N][N]Traduzido por Green Speed Studio
+Torneio Rival
+Torneio Caos Verde
+Torneio Caos Ciano
+Torneio Caos Vermelho
+Torneio Caos Amarelo
+Torneio Caos Azul
+Torneio Caos Roxo
+Torneio Caos Cinza
+Complete todos os desafios
+Complete todos os desafios da zona 1
+Complete todos os desafios da zona 2
+Complete todos os desafios da zona 3
+Complete todos os desafios da zona 4
+Complete todos os desafios da zona 5
+Complete todos os desafios da zona 6
 Lose!
 Win!  %d:%02d.%02d
 Knuckles Cup
@@ -1070,39 +1070,39 @@ Shadow Cup
 Silver Cup
 Torneio
 Sonic Cup
-Blue Chaos Cup
-Cyan Chaos Cup
-Green Chaos Cup
-Grey Chaos Cup
-Purple Chaos Cup
-Red Chaos Cup
-Rival Cup
-Yellow Chaos Cup
-Default
+Torneio Caos Azul
+Torneio Caos Ciano
+Torneio Caos Verde
+Torneio Caos Cinza
+Torneio Caos Roxo
+Torneio Caos Vermelho
+Torneio Rival
+Torneio Caos Amarelo
+Padrão
 Delete failed.
 Delete failed.[N][N]The Memory Stick™[N]was removed.
-Easy
-Hard
-Medium
+Fácil
+Médio
+Difícil
 Easy Challenges Completed
 Memory Stick™  is not found.[N]At least %d KB is needed to save this game's data.[N]Please insert a Memory Stick™.
 Load failed.[N][N]The Memory Stick™[N]was removed during a load process.
 Save failed.[N][N]The Memory Stick™[N]was removed during a save process.
-Load Successful.
-Save Successful.
-Auto-Save Successful.
+Carregamento concluído.
+Salvamento concluído.
+Auto-salvamento concluído.
 There is no data.
 There is no data on the Memory Stick™.
-Loading...
-Saving...
-Do not switch off the PSP®[N]or remove the Memory Stick™.
+Carregando...
+Salvando...
+Não desligue o PSP®[N]ou remova o Memory Stick™.
 There is not enough space on the Memory Stick™.[N]At least %d KB more space is needed[N]to save this game data.
 Demo
-Select
+Selecionar
 [XB] Accept
 Cancel
 Voltar
-Main Menu
+Menu principal
 Option
 Yes
 No
@@ -1151,7 +1151,7 @@ Disconnected from wireless session.
 Unable to initialize wireless session.
 The WLAN switch is off.
 Initializing wireless please wait...
-This game saves data automatically at certain points.[N]Do not remove the Memory Stick™[N]or switch off the PSP® when the[N]Memory Stick™ access indicator is flashing.
+Esse jogo contém salvamento automático.[N]Não remova o Memory Stick™ ou[N]desligue o PSP® quando o indicador de[N]acesso do Memory Stick™ estiver piscando.
 Waiting for other player to join...
 Please select language:
 English
@@ -1192,23 +1192,23 @@ for Shadow
 for Silver
 for Sonic
 GameIntro
-Summary
+Estatísticas
 Get Ready.
 Global
 Gloves
 Go!
 Hard Challenges Completed
-Highest num. of Attacks
-Highest num. of Boosts
-Highest num. of Rings
-Highest Score
-DEMO MODE
-Crystal Mountain Zone
+Maior num. de ataques
+Maior num. de turbos
+Maior num. de anéis
+Pontuação mais alta
+DEMONSTRAÇÃO
+Zona Crystal Mountain
 Join
 Join Game
-Death Yard Zone
-Knuckles Loses
-Knuckles Wins
+Zona Death Yard
+Knuckles Perdeu.
+Knuckles Venceu!
 Leather
 Eggman
 Armor
@@ -1273,17 +1273,17 @@ Hint 09
 Hint 10
 Hint 11
 Locked
-Main Menu
+Menu Principal
 Medium Challenges Completed
-Metal Sonic Loses
-Metal Sonic Unlocked
-Metal Sonic Wins
-Meteor Base Zone
+Metal Sonic Perdeu.
+Metal Sonic Desbloqueado
+Metal Sonic Venceu!
+Meteor Base Zona
 Jogo Remoto
-Music
+Música
 New!
 New Game
-New Profile
+Novo Perfil
 New Record!
 #1
 #2
@@ -1336,11 +1336,11 @@ Sonic's Ice Shoes Unlocked
 Sonic's Leather Suit Unlocked
 Sonic's Black Tie Suit Unlocked
 Sonic's Ice Suit Unlocked
-Outfits
-Gloves
-Shoes
-Suit
-Sonic's Suits
+Roupas
+Luvas
+Sapatos
+Traje
+Trajes do Sonic
 % of Story Complete:
 Place Wager
 Accept Wager
@@ -1348,50 +1348,50 @@ Cancel Wager
 Rival Wager
 Your Wager
 Player Data
-Press START button
-Press [CB] to Cancel Connect
-Press [CB] to Cancel Game
+Pressione START / [XB]
+Pressione [CB] para cancelar a conexão.
+Pressione [CB] para cancelar o jogo.
 Profile 1
 Profile 2
 Profile 3
 Quit
-Cups
-Record vs CPU
-Record vs Player
+Torneios
+Recorde contra computador
+Recorde contra jogador
 1:13:03
 Reset to factory defaults
 Restart Race
-Rings:
+Anéis:
 75
 7,500
 Save cancelled.[N][N]You will not be able to use the autosave[N]feature until you save your game.
 Save failed.
-Save Profile
+Salvar Perfil
 sega
 Selecionar
 
 Select Cards
-Selecione o personagem
-Selecione o torneio
-Selecione a dificuldade
-Selecione o hospedeiro
-Selecione o visual
+Escolha o personagem
+Escolha o torneio
+Escolha a dificuldade
+Escolha o hospedeiro
+Escolha o visual
 Mudar o perfil
-Selecione o rival
-Selecione a fase
+Escolha o rival
+Escolha a zona
 select trading host
 Set
-SFX
-Shadow Loses
-Shadow Wins
+Efeitos sonoros
+Shadow Perdeu.
+Shadow Venceu!
 Shoes
-Silver Loses
-Silver Wins
+Silver Perdeu.
+Silver Venceu!
 Jogo Solo
 Corrida Única
 Knuckles Skin Unlocked
 Metal Sonic Skin Unlocked
-Skins
+Visuais
 Shadow Skin Unlocked
 Silver Skin Unlocked
 Sonic Skin Unlocked
@@ -1407,13 +1407,13 @@ Sonic Skin Unlocked
 9
 10
 sonicvideo
-Sonic Loses
-Sonic Wins
+Sonic Perdeu.
+Sonic Venceu!
 startup
 Modo História
-Suits
-Summary
-Time:
+Trajes
+Estatísticas
+Tempo:
 3:40:30
 14,000
 Glowing Boost objects[N]can be found throughout the level.[N]Press [XB] to Air Boost or [CB] to Speed Boost!
@@ -1426,7 +1426,7 @@ Knuckles' Signature Move is his Hammer Punch. It stuns his Rival, wherever he is
 Shadow's Signature Move is Chaos Control. He can slow time for his Rival!
 Silver's Signature Move is ESP. He can scramble his Rival's controls!
 Press [CB] when near your Rival to push him to the ground and make him lose Rings!
-Air Boosting [XB] can open up new paths for you to explore!
+Turbo aéreo com [XB] pode abrir novos caminhos para você explorar!
 Use the homing attack on your Rival (press [XB] twice) to leapfrog into the air and make him lose Rings!
 Jostling your Rival will get you a higher score!
 Leapfrog over your Rival to reach higher areas!
@@ -1437,7 +1437,7 @@ Collect Rings to complete Challenges!
 Push, leapfrog, and Power-Up your Rival to knock his Rings loose!
 Follow Ring trails to find new paths and items.
 Complete Challenges in Challenge Mode to earn cards.
-Air Boosting [XB] might help you find a much-needed Power-Up!
+Turbo aéreo com [XB] talvez ajude a achar um ótimo poder!
 Collect sets of Cards to unlock new content!
 Collect all Cards to see cool images!
 Cards can unlock track suits, Race Cups, and more!
@@ -1446,29 +1446,29 @@ Collect Chaos Emerald Cards to unlock new Race Cups.
 See all your cards in Card Collection Mode.
 You can wager cards against your Rival in Wireless Play races. Winner takes all!
 Complete Story modes to access menu colors for each character!
-Venoom - A large robotic arachnid queen that resides deep in the forests of the Forest Falls Zone.
-Vultur: This mechanical vulture threatens with its steel talons in the Colosseum Highway Zone.
+Venoom - A large robotic arachnid queen that resides deep in the forests of the Forest Falls Zona.
+Vultur: This mechanical vulture threatens with its steel talons in the Colosseum Highway Zona.
 Speed Boosting [CB] will help you clear obstacles and destroy enemies in your path!
-MonoClown: Eggman's latest creation rolls along and punches any interlopers in Sky Park Zone.
-Yetee: He's big, angry, and programmed to defend the frozen tracks of Crystal Mountain Zone!
-Metal Hound: This terrifying technobot patrols the Death Yard Zone and is eager to sink his metal teeth into any intruders.
-Drill Worm: This large mechanical worm bristles with spikes and makes its home in the Meteor Base Zone.
+MonoClown: Eggman's latest creation rolls along and punches any interlopers in Sky Park Zona.
+Yetee: He's big, angry, and programmed to defend the frozen tracks of Crystal Mountain Zona!
+Metal Hound: This terrifying technobot patrols the Death Yard Zona and is eager to sink his metal teeth into any intruders.
+Drill Worm: This large mechanical worm bristles with spikes and makes its home in the Meteor Base Zona.
 You can use your homing attack (press [XB] twice) to destroy enemies!
 Flapper shoots homing missiles - watch out!
-EggPawns patrol all the Zones, eager to do Eggman's bidding.
+EggPawns patrol all the Zonas, eager to do Eggman's bidding.
 You can bounce off of enemies to access hard to reach platforms and even jump over pits!
-Forest Falls Zone: Hit the Egg Turtle's head for damage, or hit the tail to stop your rival!
-Colosseum Highway Zone: Jump on the Egg Falcon's head when he swoops down low! But watch out for his bombs!
+Zona Forest Falls: Hit the Egg Turtle's head for damage, or hit the tail to stop your rival!
+Zona Colosseum Highway: Jump on the Egg Falcon's head when he swoops down low! But watch out for his bombs!
 Speed Boosting [CB] will help you zip past your Rival!
-Crystal Mountain Zone: Jump from the paws of the Egg Lynx while they're lowered to hit Eggman's capsule!
-Death Yard Zone: Freeze your Rival by boosting off stuck missiles, then attack the Brain Capsule when it emerges!
-Meteor Base Zone: Fight your way through the hazards and smash Eggman's Laser-Turrets to stop the Rocket!
+Zona Crystal Mountain: Jump from the paws of the Egg Lynx while they're lowered to hit Eggman's capsule!
+Zona Death Yard: Freeze your Rival by boosting off stuck missiles, then attack the Brain Capsule when it emerges!
+Zona Meteor Base: Fight your way through the hazards and smash Eggman's Laser-Turrets to stop the Rocket!
 Boosting will help you collect more Power-Ups and Rings.
 Fire Offensive: Blast your Rivals with a fireball![N]Defensive: Protect yourself with a fire shield!
 Ice Offensive: Freeze your Rivals solid with an ice bolt![N]Defensive: Drop a snowbank that will slow your Rival!
 Rivals_Title
 Titles
-Score:
+Pontuação:
 45,500
 Trade Accepted
 Trade Complete
@@ -1524,7 +1524,7 @@ The Whole Game is Unlocked
 View Collection
 View Trading Cards/Sets
 View Unlockables
-Sound
+Áudio
 Vs Record COM
 Vs Record HMN
 Wager Cards
@@ -1532,7 +1532,7 @@ Wager Offered
 Waiting for second player to join...
 Waiting...
 Watch Video
-Forest Falls Zone
+Zona Forest Falls
 Perform at least %s boosts
 Defeat boss before Rival
 Defeat boss in %s or less
@@ -1540,36 +1540,36 @@ Hit Rival with %s Power-Ups
 Jostle Rival at least %s times
 Win with at least %s Rings
 Win in %s or less
-Zone 1 - Forest Falls
-Forest Falls Zone - Act 1
-Forest Falls Zone - Act 2
-Forest Falls Zone - Boss
-Zone 1
-Zone 2 - Colosseum Highway
-Colosseum Highway Zone - Act 1
-Colosseum Highway Zone - Act 2
-Colosseum Highway Zone - Boss
-Zone 2
-Zone 3 - Sky Park
-Sky Park Zone - Act 1
-Sky Park Zone - Act 2
-Sky Park Zone - Boss
-Zone 3
-Zone 4 - Crystal Mountain
-Crystal Mountain Zone - Act 1
-Crystal Mountain Zone - Act 2
-Crystal Mountain Zone - Boss
-Zone 4
-Zone 5 - Death Yard
-Death Yard Zone - Act 1
-Death Yard Zone - Act 2
-Death Yard Zone - Boss
-Zone 5
-Zone 6 - Meteor Base
-Meteor Base Zone - Act 1
-Meteor Base Zone - Act 2
-Meteor Base Zone - Boss
-Zone 6
+Zona 1 - Forest Falls
+Forest Falls Zona - Act 1
+Forest Falls Zona - Act 2
+Forest Falls Zona - Boss
+Zona 1
+Zona 2 - Colosseum Highway
+Colosseum Highway Zona - Act 1
+Colosseum Highway Zona - Act 2
+Colosseum Highway Zona - Boss
+Zona 2
+Zona 3 - Sky Park
+Sky Park Zona - Act 1
+Sky Park Zona - Act 2
+Sky Park Zona - Boss
+Zona 3
+Zona 4 - Crystal Mountain
+Crystal Mountain Zona - Act 1
+Crystal Mountain Zona - Act 2
+Crystal Mountain Zona - Boss
+Zona 4
+Zona 5 - Death Yard
+Death Yard Zona - Act 1
+Death Yard Zona - Act 2
+Death Yard Zona - Boss
+Zona 5
+Zona 6 - Meteor Base
+Meteor Base Zona - Act 1
+Meteor Base Zona - Act 2
+Meteor Base Zona - Boss
+Zona 6
 Unknown
 ????
 [XB]
