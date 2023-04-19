@@ -94,13 +94,13 @@ Zona 6
 Zona 6
 Are you sure?
 Are you sure you
-No
+Não
 Want to quit?
 the level?
 want to quit?
 want to restart
 Yes!
-Yes
+Sim
 Movie interrupted due to power suspend.  Restarting movie.
 back [CB]
 
@@ -111,7 +111,7 @@ Você tem certeza que quer reiniciar o nível?
 Continuar
 save [XB]
 Save Game...
-[XB] Select
+[XB] Selecionar
 waiting for opponent
 Not to worry, they're sound asleep inside these cards.
 If either of you want these cards, you'll have to catch me first!
@@ -659,7 +659,7 @@ Complete Story Mode with Shadow to unlock this Unique Card
 Complete Story Mode with Silver to unlock this Unique Card
 Complete all Story Modes to unlock this Unique Card
 Complete all Forest Falls Challenges to unlock this Unique Card
-Cartas coletadas
+Cartas coletadas:
 Cartas ganhas
 Trade
 Accept
@@ -1281,15 +1281,15 @@ Metal Sonic Venceu!
 Meteor Base Zona
 Jogo Remoto
 Música
-New!
-New Game
+Novo!
+Novo Jogo
 Novo Perfil
-New Record!
+Novo Recorde!
 #1
 #2
 No Wager
-Off
-On
+Desligado
+Ligado
 Opções
 Knuckles Leather Gloves Unlocked
 Knuckles Eggman Gloves Unlocked
@@ -1416,56 +1416,56 @@ Estatísticas
 Tempo:
 3:40:30
 14,000
-Glowing Boost objects[N]can be found throughout the level.[N]Press [XB] to Air Boost or [CB] to Speed Boost!
-Illusion Offensive: Mess up your Rival's screen![N]Defensive: Drop a small orb of Illusion that will distort your Rival's screen!
-Wind Offensive: Throw a tornado forward that will toss your Rival up into the air![N]Defensive: Drop a tornado trap that will hurl your Rival into the sky!
-Ring Magnet Offensive/Defensive: Attract nearby Rings to you!
-Mine Offensive: Launch a homing mine that will track your Rival![N]Defensive: Drop a depth charge that will explode if your Rival gets near it!
-Sonic's Signature Move is Sonic Boom. He can fly through the air and then run with a burst of crazy speed!
-Knuckles' Signature Move is his Hammer Punch. It stuns his Rival, wherever he is!
-Shadow's Signature Move is Chaos Control. He can slow time for his Rival!
-Silver's Signature Move is ESP. He can scramble his Rival's controls!
-Press [CB] when near your Rival to push him to the ground and make him lose Rings!
+Objetos brilhantes de Turbo podem ser achados nas fases. Aperte [CB] para o Turbo comum ou [XB] para o Turbo Aéreo!
+Ilusão ofensiva: Bagunça a tela do seu rival![N]Defensiva: Derruba uma esfera de Ilusão que vai distorcer a tela do seu rival!
+Rajada ofensiva: Joga um tornado para frente que vai lançar seu rival para os ares![N]Defensiva: Solta uma armadilha de tornado que vai lançar seu rival para os ares!
+Imã de anéis ofensivo/defensivo: Atrai anéis próximos para você!
+Mina ofensiva: Lança uma mina teleguiada no seu rival![N]Defensiva: Solta uma carga que vai explodir caso seu rival chegue perto!
+O movimento de assinatura do Sonic é o Sonic Boom. Ele pode voar através dos ares e depois correr com uma explosão de velocidade!
+O movimento de assinatura do Knuckles é o seu Hammer Punch. Ele atordoa seu rival, onde quer que esteja!
+O movimento de assinatura do Shadow é o Chaos Control. Ele pode desacelerar o tempo do seu rival!
+O movimento de assinatura do Silver é o ESP. Ele pode bagunçar os controles do seu rival!
+Aperte [CB] perto de seu rival para derrubá-lo e fazê-lo perder anéis!
 Turbo aéreo com [XB] pode abrir novos caminhos para você explorar!
-Use the homing attack on your Rival (press [XB] twice) to leapfrog into the air and make him lose Rings!
-Jostling your Rival will get you a higher score!
-Leapfrog over your Rival to reach higher areas!
-You lose 10 Rings whenever you get injured.
-Collect Rings to add to your level score!
-If you get injured when you have zero Rings, you will lose valuable time while you respawn.
-Collect Rings to complete Challenges!
-Push, leapfrog, and Power-Up your Rival to knock his Rings loose!
-Follow Ring trails to find new paths and items.
-Complete Challenges in Challenge Mode to earn cards.
+Use o Homing Attack no seu rival (2x [XB]) pra saltar e fazê-lo perder anéis!
+Empurrar seu rival vai te dar uma pontuação maior!
+Pule sobre seu rival para alcançar novas áreas!
+Você vai perder 10 anéis toda vez que se machucar.
+Colete anéis para aumentar sua pontuação!
+Se você se machucar enquanto não tiver anéis, você vai perder um tempo precioso enquanto renasce.
+Colete anéis para completar desafios!
+Empurre, salte sobre e use poderes contra seu rival para fazê-lo perder anéis!
+Siga trilhos de anéis para descobrir novos caminhos e itens.
+Complete desafios no Modo Desafio para ganhar cartas.
 Turbo aéreo com [XB] talvez ajude a achar um ótimo poder!
-Collect sets of Cards to unlock new content!
-Collect all Cards to see cool images!
-Cards can unlock track suits, Race Cups, and more!
-You can trade cards with your friends via Card Trade!
-Collect Chaos Emerald Cards to unlock new Race Cups.
-See all your cards in Card Collection Mode.
-You can wager cards against your Rival in Wireless Play races. Winner takes all!
-Complete Story modes to access menu colors for each character!
-Venoom - A large robotic arachnid queen that resides deep in the forests of the Forest Falls Zona.
-Vultur: This mechanical vulture threatens with its steel talons in the Colosseum Highway Zona.
-Speed Boosting [CB] will help you clear obstacles and destroy enemies in your path!
-MonoClown: Eggman's latest creation rolls along and punches any interlopers in Sky Park Zona.
-Yetee: He's big, angry, and programmed to defend the frozen tracks of Crystal Mountain Zona!
-Metal Hound: This terrifying technobot patrols the Death Yard Zona and is eager to sink his metal teeth into any intruders.
-Drill Worm: This large mechanical worm bristles with spikes and makes its home in the Meteor Base Zona.
-You can use your homing attack (press [XB] twice) to destroy enemies!
-Flapper shoots homing missiles - watch out!
-EggPawns patrol all the Zonas, eager to do Eggman's bidding.
-You can bounce off of enemies to access hard to reach platforms and even jump over pits!
-Zona Forest Falls: Hit the Egg Turtle's head for damage, or hit the tail to stop your rival!
-Zona Colosseum Highway: Jump on the Egg Falcon's head when he swoops down low! But watch out for his bombs!
-Speed Boosting [CB] will help you zip past your Rival!
-Zona Crystal Mountain: Jump from the paws of the Egg Lynx while they're lowered to hit Eggman's capsule!
-Zona Death Yard: Freeze your Rival by boosting off stuck missiles, then attack the Brain Capsule when it emerges!
-Zona Meteor Base: Fight your way through the hazards and smash Eggman's Laser-Turrets to stop the Rocket!
-Boosting will help you collect more Power-Ups and Rings.
-Fire Offensive: Blast your Rivals with a fireball![N]Defensive: Protect yourself with a fire shield!
-Ice Offensive: Freeze your Rivals solid with an ice bolt![N]Defensive: Drop a snowbank that will slow your Rival!
+Colete conjuntos de cartas para desbloquear novos conteúdos!
+Colete todas as cartas para ver imagens maneiras!
+Cartas podem desbloquear trajes, torneios e mais!
+Você pode trocar cartas com seus amigos através da Troca de Cartas!
+Colete cartas de Esmeraldas do Caos para desbloquear novos torneios.
+Veja todas as suas cartas no Modo Coleção de Cartas.
+Você pode conquistar cartas contra seu rival em corridas do Jogo Remoto. O vencedor leva tudo!
+Finalize as histórias para acessar as cores de menu para cada personagem!
+Venoom: Uma rainha aracnídea que reside dentro das profundezas das florestas da Zona Forest Falls. 
+Vultur: Esse abutre mecânico ameaça com suas garras de aço na Zona Colosseum Highway.
+O Turbo com [CB] vai te ajudar a limpar obstáculos e destruir inimigos em seu caminho!
+MonoClown: A criação mais recente do Eggman rola por aí e soca qualquer intruso na Zona Sky Park.
+Yetee: Ele é grande, raivoso, e programado pra defender os frios caminhos da Zona Crystal Mountain!
+Metal Hound: Esse aterrorizante technorobô patrulha a Zona Death Yard e ansia afundar seus dentes de metal em qualquer intruso.
+Drill Worm: Esse verme mecânico espinhudo faz da Zona Meteor Base a sua moradia.
+Você pode usar seu Homming Attack (2x [XB]) para destruir inimigos!
+O Flapper atira mísseis teleguiados - cuidado!
+Os EggPawns patrulham todas as zonas, ansiosos para cumprir os desejos de Eggman.
+Você pode quicar em inimigos para acessar plataformas e até pular sobre poços!
+Zona Forest Falls: Atinja a cabeça de Egg Turtle para dar dano, ou atinja a cauda para parar seu rival!
+Zona Colosseum Highway: Pule na cabeça de Egg Falcon quando ele descer! Mas cuidado com suas bombas!
+O Turbo com [CB] vai te ajudar a ultrapassar seu rival!
+Zona Crystal Mountain: Pule das garras do Egg Lynx enquanto elas estão abaixadas para atingir a cápsula do Eggman!
+Zona Death Yard: Congele seu rival ao usar o Turbo nos mísseis presos, e então ataque a cápsula cerebral quando ela emergir!
+Zona Meteor Base: Ache o caminho através dos perigos e destrua os lasers do Eggman para parar o foguete!
+Usar o Turbo vai te ajudar a coletar mais poderes e anéis.
+Fogo ofensivo: Exploda seus rivais com uma bola de fogo![N]Defensivo: Proteja-se com um escudo de fogo!
+Gelo ofensivo: Imobilize seus rivais com um raio congelante![N]Defensivo: solte um monte de neve que vai desacelerar seu rival!
 Rivals_Title
 Titles
 Pontuação:
