@@ -92,27 +92,27 @@ Zona 5
 Zona 6
 Zona 6
 Zona 6
-Are you sure?
-Are you sure you
+Tem certeza?
+Tem certeza que
 Não
-Want to quit?
-the level?
-want to quit?
-want to restart
-Yes!
+Quer sair?
+do nível?
+quer sair?
+quer reiniciar
+Sim!
 Sim
-Movie interrupted due to power suspend.  Restarting movie.
-back [CB]
+Filme interrompido devido a suspensão de energia.  Reiniciando filme.
+voltar [CB]
 
-Pause...
-QUIT GAME
+Pausado...
+SAIR DO JOGO
 Reiniciar nível
 Você tem certeza que quer reiniciar o nível?
 Continuar
-save [XB]
-Save Game...
+salvar [XB]
+Salvar Jogo...
 [XB] Selecionar
-waiting for opponent
+esperando por oponente
 Not to worry, they're sound asleep inside these cards.
 If either of you want these cards, you'll have to catch me first!
 Ho ho ho ho!
