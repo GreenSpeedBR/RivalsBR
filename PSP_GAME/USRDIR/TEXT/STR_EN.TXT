@@ -113,88 +113,88 @@ salvar [XB]
 Salvar Jogo...
 [XB] Selecionar
 esperando por oponente
-Not to worry, they're sound asleep inside these cards.
-If either of you want these cards, you'll have to catch me first!
+Não se preocupe, eles estão tirando um cochilo dentro destas cartas.
+Se qualquer um de vocês quiserem essas cartas, vão ter que me pegar primeiro!
 Ho ho ho ho!
-Wait! Come back here!
-No hard feelings, Sonic, but this time there's no way you're gonna beat me!
-Okay, Knuckles... Then let's race for it! First one who gets to Eggman takes all!
-Dang it... I came all the way to this island looking for the Master Emerald, but there's no sign of it here...
-Something about this island feels really familiar, though...
-Hey! Isn't that... Eggman!
-That's it! He must be involved in this again!
-Hey, Eggman!
-The Master Emerald is gone... I'll bet you're behind this, aren't you?!
-Heh heh heh... Yes, that's right!
-The Master Emerald you're looking for is right here, locked away in this card.
-Hey, Eggman![N]What have you done with Amy and Tails!?
-All right, Eggman! A promise is a promise... Give me back that card!
-Hmm... Well, I suppose if you win my little contest, I could give you a card of your choosing.
-What!? That's not what you said before!
-Fine, I'll take it by force, then!
-I thought I had him, but then he disappeared into the light!?
-You let the doctor get away? Hmph! You're useless...
-What'd you say!?[N]What's your problem, Shadow!?
-Don't mess with me, I'm not in the mood! I might take it out on you, got it?
-Whatever Knuckles... But first, I've got some business with the doctor!
-All righty then... Let's see who can catch him first!
-You're on! Let's do it!
-Doctor! What are you hiding?
-Hey, Shadow![N]Mind your own business!
-Yo, Eggman![N]You'd better hand over the Master Emerald this time!
-Annoying pests! I'll crush you with my mechanical pets!
-Bring it on! We'll see who crushes who!
-How's that, Eggman?!
-Dang it! Where did he go!
-Well, well, it looks like you've won. Here's the card, as promised!
-He certainly knows how to run, I'll give him that...
-It's about time! Now hand it over!
-Hey, you there! Did you see that guy carrying something strange?
-What's the big hurry? Do you even know how to use the Master Emerald card?
-Actually... he has this weird camera that changes things into cards... Wait a minute... Who are you?
-You use it like this!
-What'd you say!? How did he get a hold of it?
-What!? There's that light again!
-You...![N]What are you mumbling about?
-Got no time to waste on you. See ya!
-You little... Get back here!
-This oughta be fun! Bring it on, Eggman!
-Hey, Eggman!
-How did you make the Master Emerald disappear from Angel Island?
-Hmm... Well... You came from Angel Island, didn't you?
-What you don't seem to realize is that this IS Angel Island.
-What!? This is Angel Island!?
-You're not making any sense, Eggman!
-Heh heh heh. Do you need an explanation, then?
-Very well! If you can manage to defeat my Metal Sonic, I'll tell you what you want to know.
-What the...?[N]Metal Sonic?!
-Hey, wait! There's no way you're gonna beat me to him!
-Come to think of it, the shape of this island is similar to Angel Island...
-But the real Angel Island is still there, right? So this one's got to be a fake...
-Argh! I just don't get it!
-Hey, isn't that Shadow over there?! He might know where Eggman is!
-Hey, Shadow! Did you find Eggman?
-Heh... Looks like the doctor got away from you again...
-Shut up! I was this close to catching him!
-Anyway, doesn't seem like you've found him either!
-Maybe not, but at least I'm not as clueless as you. I'll see you later!
-Doctor! Wait!
-Hey, Eggman!
-Earlier you said that this was Angel Island...
-What did you mean? Explain yourself!
-*sigh*[N]Such annoying pests...
-It may be too much for your puny little brain to grasp, but this is Onyx Island, or Angel Island from the future!
-What!? The future!?
-Just like I thought... A bit too much for your little brains to comprehend.
-Enough of this small talk! Time to take care of both of you!
-Dang it! He got away again! If there's one thing he's good at, it's running.
-But what did he mean, though? How is this place Angel Island from the future?
-And what does it all have to do with the Master Emerald disappearing? Arrgh!
-Gah, it just doesn't make any sense! I've just got to track Eggman down again and force him to tell the truth!
-Huh?[N]Sonic? Is that you?[N]And Tails, too?
-Yo, Knuckles![N] Did you decide to give up on your little quest to track down the Master Emerald?
-Grr... You better shut your mouth!
-I'm not letting you make a fool of me again! Let's go, Sonic!
+Espera! Volta aqui!
+Sem ressentimentos, Sonic, mas dessa vez não tem como você me vencer!
+Ok, Knuckles... Então vamos apostar uma corrida! O primeiro que chegar no Eggman leva tudo!
+Droga... Eu vim até essa ilha procurando a Esmeralda Mestra, mas sem sinal dela por aqui...
+Aliás, tem algo bem familiar sobre essa ilha...
+Ei! Não é o... Eggman!
+É isso! Ele deve estar envolvido nisso de novo!
+Ei, Eggman!
+A Esmeralda Mestra se foi... Aposto que você tá por trás disso, não tá!?
+Heh heh heh... Sim, você está certo!
+A Esmeralda Mestra que você tá procurando está bem aqui, presa nesta carta.
+Ei, Eggman![N]O que você fez com a Amy e o Tails!?
+Beleza, Eggman! Promessa é promessa... Me devolve essa carta!
+Hmm... Bom, eu suponho que se você ganhar meu pequeno desafio, você possa escolher uma das cartas.
+O quê!? Não foi isso o que você disse antes!
+Certo, então eu vou tirar na força!
+Eu achei que eu tinha ele, mas ele desapareceu na luz!?
+Você deixou o doutor escapar? Rum! Seu inútil...
+O que você disse!?[N]Qual é o seu problema, Shadow!?
+Não mexe comigo, eu não tô no clima, ou eu vou descontar em você, entendeu!?
+Tanto faz, Knuckles... Mas primeiro, eu tenho alguns negócios com o doutor!
+Então beleza... Vamos ver quem pega ele primeiro!
+Vamos nessa!
+Doutor! O que você tá escondendo?
+Não é da sua conta, Shadow!
+Aí, Eggman![N]É melhor você entregar a Esmeralda Mestra dessa vez!
+Pestes irritantes! Eu vou esmagar vocês com os meus bichinhos mecânicos!
+Vem pra cima! Vamos ver quem esmaga quem!
+Que tal, Eggman!?
+Droga! Onde ele foi!?
+Bem, bem, parece que você venceu. Aqui está a carta, como prometido!
+Ele certamente sabe como correr, eu vou dar isso...
+Já era tempo! Agora passa pra cá!
+Ei, você aí! Viu aquele cara carregando algo estranho?
+Pra quê a pressa? Você pelo menos sabe como usar a carta da Esmeralda Mestra?
+Na verdade... ele tem aquela câmera estranha que transforma as coisas em cartas... Espera um minuto... Quem é você?
+Você usa tipo assim!
+O que você disse!? Como ele conseguiu isso?
+O quê!? É aquela luz de novo!
+Você...![N]O que você tá resmungando?
+Sem tempo pra perder com você. Até mais!
+Seu... Volte aqui!
+Isso vai ser divertido! Manda ver, Eggman!
+Ei, Eggman!
+Como você fez a Esmeralda Mestra desaparecer de Angel Island?
+Hm... Bom... Você veio de Angel Island, não foi?
+Parece que você não entendeu que essa É Angel Island.
+O quê!? Essa é Angel Island!?
+Isso não faz sentido algum, Eggman!
+Heh heh heh. Você precisa de uma explicação, então?
+Muito bem! Se você der um jeito de derrotar meu Metal Sonic, eu te digo o que você quer saber.
+Mas que...?[N]Metal Sonic!?
+Ei, espera! Nem ferrando que você vai acabar comigo pra ele!
+Parando pra pensar, o formato dessa ilha é similar a Angel Island...
+Mas a Angel Island verdadeira ainda está por aí, não é? Então essa tem que ser falsa...
+Ah! Eu ainda não entendi!
+Ei, aquele ali não é o Shadow!? Ele deve saber onde o Eggman tá!
+Ei, Shadow! Você achou o Eggman?
+Heh... Parece que o doutor te driblou de novo...
+Calado! Eu tava perto de pegar ele!
+Enfim, não parece que você conseguiu achar ele também!
+Talvez não, mas pelo menos não estou perdido como você. Te vejo depois!
+Doutor! Espera!
+Ei, Eggman!
+Mais cedo você disse que essa era Angel Island...
+O que você quis dizer! Explique-se!
+*inspira*[N]Que pestes irritantes...
+Deve ser muito pra sua massa encefálica processar, mas essa é Onyx Island, a Angel Island do futuro!
+O quê!? O futuro!?
+Como imaginei... Foi demais pros cérebros pequenos de vocês compreenderem.
+Chega desse papo furado! Hora de cuidar de vocês!
+Droga, ele fugiu de novo! Se tem algo que ele é bom, é fugir.
+Afinal de contas, o que ele quis dizer? Como esse lugar é Angel Island do futuro?
+E o que isso tudo tem a ver com a Esmeralda Mestra desaparecendo? Ahh!
+Isso não faz sentido nenhum! Eu tenho que rastrear o Eggman e forçar ele a contar toda a verdade!
+Hã?[N]Sonic? É você?[N]E o Tails também?
+Iai Knuckles![N]Decidiu desistir da sua missãozinha de procurar a Esmeralda Mestra?
+Grr... É melhor você calar sua boca!
+Eu não vou deixar você me fazer de trouxa de novo! Vamos lá, Sonic!
 Ho ho ho ho!
 I have nothing more to say to you! Go play with Metal Sonic now!
 Enough of this, Eggman! You'd better start explaining what's going on!
@@ -306,20 +306,20 @@ I'll figure out what's going on later... Now, hand over that card!
 Ho ho ho! Do you really want it that badly?
 It seems Rouge discovered the doctor's secret and got turned into a card...
 I'll have to find the doctor and find out what the secret is...
-Hey, Shadow! Did you find Eggman?
-Heh... Looks like the doctor got away from you again...
-Shut up! I was this close to catching him!
-Anyway, doesn't seem like you've found him either!
+Ei, Shadow! Você achou o Eggman?
+Heh... Parece que o doutor te driblou de novo...
+Calado! Eu tava perto de pegar ele!
+Enfim, não parece que você conseguiu achar ele também!
 Maybe so, but at least I'm not as clueless as you. I'll see you later!
-Hey, wait! There's no way you're gonna beat me to him!
+Ei, espera! Nem ferrando que você vai acabar comigo pra ele!
 Wait! Doctor!
 Tell me the secret you've been hiding. Now!
 Ho ho ho ho!
 Perhaps you're talking about this card?
 That's...!? The doctor's on that card!
-Hey, Eggman!
+Ei, Eggman!
 What's going on here!? You better start explaining!
-Enough of this small talk! Time to take care of both of you!
+Chega desse papo furado! Hora de cuidar de vocês!
 What?! Eggman's been turned into a card, too?
 Hoh ho ho! Are the two of you having fun?
 Doctor!
@@ -393,7 +393,7 @@ We can start with the other cards Eggman had!
 Do what you like...
 Ho ho ho ho!
 You've come all this way to find me... This must be something very important!
-Hey, Eggman! I've got something to ask you, about someone I'm looking for!
+Ei, Eggman! I've got something to ask you, about someone I'm looking for!
 You! What do you want with the doctor!?
 Who's there!? You better not get in my way!
 My name is Shadow... And I won't let you harm the doctor!
@@ -419,11 +419,11 @@ Grrrrr...
 Hey! Move aside. I already told you I need to talk to him first.
 Yo Silver... You're starting to get on my nerves!
 Enough of this chit chat... Prepare yourself!
-You little... Get back here!
-He certainly knows how to run, I'll give him that...
-Hey, you there! Did you see that guy carrying something strange?
-Actually... He has this weird camera that changes things into cards... Wait a minute... Who are you?
-What'd you say!? How did he get a hold of it?
+Seu... Volte aqui!
+Ele certamente sabe como correr, eu vou dar isso...
+Ei, você aí! Viu aquele cara carregando algo estranho?
+Na verdade... ele tem aquela câmera estranha que transforma as coisas em cartas... Espera um minuto... Quem é você?
+O que você disse!? Como ele conseguiu isso?
 You...! What are you mumbling about?
 Got no time to explain it to someone like you... See ya!
 "Someone like me?" Hey, I'm Knuckles! Haven't you heard of me?
@@ -441,11 +441,11 @@ Sonic!?
 Heh! While you've been wasting your time, I've been figuring his next move...
 What!?
 If you can keep up, I might tell you what I know! Let's go!
-Hey, Eggman! Things are finally starting to make sense...
+Ei, Eggman! Things are finally starting to make sense...
 "Eggman NEGA," who I'm looking for, would never let his camera out of his sight.
 So, that means... You must be Eggman NEGA!
 Well now... That's an interesting theory... But do you have any proof?
-Hey, Eggman! Are we done with your little game yet?
+Ei, Eggman! Are we done with your little game yet?
 Hmm... I suppose I have enough data to proceed with my plans...
 But if I defeat you now, there won't be anyone left to get in my way in the present, or in the future...
 The future!? You've given yourself away!
@@ -509,7 +509,7 @@ Sem ressentimentos, Sonic, mas dessa vez não tem como você me vencer!
 Ok, Knuckles... Então vamos apostar uma corrida! O primeiro que chegar no Eggman fica com tudo!
 O-ho-ho-ho![N]Há quanto tempo, não é, Sonic?
 Ei, Eggman![N]O que você fez com a Amy e o Tails!?
-Não se preocupe, eles estão tirando um cochilo dentro dessas cartas.
+Não se preocupe, eles estão tirando um cochilo dentro destas cartas.
 Você, Eggman!
 A Esmeralda Mestre se foi...[N]Aposto que tem dedo seu nisso, não é!?
 Heh heh heh... Na mosca!
@@ -573,7 +573,7 @@ Don't worry![N]He can try whatever he wants, but there's no way he's getting awa
 Sonic? Is that you?[N]And Tails, too?
 That must mean that you got the card back from Eggman. I'm too late!
 Sorry about that, Knuckles, but if you're trying to stay on Eggman's heels, you have to be quicker than that.
-Grr... You better shut your mouth!
+Grr... É melhor você calar sua boca!
 You can't run, Eggman![N]No matter where you try to hide, I'll always track you down!
 Humph! Mouthing off as always... If you're so eager to finish things, why don't you let me oblige you!
 Metal Sonic![N]I command you!
