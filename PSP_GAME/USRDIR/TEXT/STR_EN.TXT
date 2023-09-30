@@ -130,10 +130,10 @@ A Esmeralda Mestra que você tá procurando está bem aqui, presa nesta carta.
 Ei, Eggman![N]O que você fez com a Amy e o Tails!?
 Beleza, Eggman! Promessa é promessa... Me devolve essa carta!
 Hmm... Bom, eu suponho que se você ganhar meu pequeno desafio, você possa escolher uma das cartas.
-O quê!? Não foi isso o que você disse antes!
+O quê!? Não foi isso que você disse antes!
 Certo, então eu vou tirar na força!
 Eu achei que eu tinha ele, mas ele desapareceu na luz!?
-Você deixou o doutor escapar? Rum! Seu inútil...
+Você deixou o doutor escapar? Hmph! Seu inútil...
 O que você disse!?[N]Qual é o seu problema, Shadow!?
 Não mexe comigo, eu não tô no clima, ou eu vou descontar em você, entendeu!?
 Tanto faz, Knuckles... Mas primeiro, eu tenho alguns negócios com o doutor!
@@ -160,10 +160,10 @@ Sem tempo pra perder com você. Até mais!
 Seu... Volte aqui!
 Isso vai ser divertido! Manda ver, Eggman!
 Ei, Eggman!
-Como você fez a Esmeralda Mestra desaparecer de Angel Island?
+Como você fez a Esmeralda Mestra desaparecer da Angel Island?
 Hm... Bom... Você veio de Angel Island, não foi?
-Parece que você não entendeu que essa É Angel Island.
-O quê!? Essa é Angel Island!?
+Parece que você não entendeu que essa É a Angel Island.
+O quê!? Essa é a Angel Island!?
 Isso não faz sentido algum, Eggman!
 Heh heh heh. Você precisa de uma explicação, então?
 Muito bem! Se você der um jeito de derrotar meu Metal Sonic, eu te digo o que você quer saber.
@@ -181,328 +181,328 @@ Talvez não, mas pelo menos não estou perdido como você. Te vejo depois!
 Doutor! Espera!
 Ei, Eggman!
 Mais cedo você disse que essa era Angel Island...
-O que você quis dizer! Explique-se!
+O que você quis dizer? Explique-se!
 *inspira*[N]Que pestes irritantes...
 Deve ser muito pra sua massa encefálica processar, mas essa é Onyx Island, a Angel Island do futuro!
-O quê!? O futuro!?
+O quê!? Do futuro!?
 Como imaginei... Foi demais pros cérebros pequenos de vocês compreenderem.
 Chega desse papo furado! Hora de cuidar de vocês!
 Droga, ele fugiu de novo! Se tem algo que ele é bom, é fugir.
-Afinal de contas, o que ele quis dizer? Como esse lugar é Angel Island do futuro?
+Afinal de contas, o que ele quis dizer? Como esse lugar é a Angel Island do futuro?
 E o que isso tudo tem a ver com a Esmeralda Mestra desaparecendo? Ahh!
 Isso não faz sentido nenhum! Eu tenho que rastrear o Eggman e forçar ele a contar toda a verdade!
 Hã?[N]Sonic? É você?[N]E o Tails também?
-Iai Knuckles![N]Decidiu desistir da sua missãozinha de procurar a Esmeralda Mestra?
+Eae, Knuckles![N]Decidiu desistir da sua missãozinha de procurar a Esmeralda Mestra?
 Grr... É melhor você calar sua boca!
 Eu não vou deixar você me fazer de trouxa de novo! Vamos lá, Sonic!
 Ho ho ho ho!
-I have nothing more to say to you! Go play with Metal Sonic now!
-Enough of this, Eggman! You'd better start explaining what's going on!
-Fine! If you want to know so badly, I'll tell you!
-I turned the Master Emerald into a card using my camera by taking a picture of it from the future Angel Island.
-Since the Master Emerald is a unique object that exists across the time-space continuum...
-When the future emerald was turned into a card, its existence in all the time frames vanished as well.
-So that's why the Master Emerald disappeared from right in front of me!
-So you finally understand.
-Using the power of the Emerald, I brought all of Angel Island here, into this time frame.
-So I see...all this is your fault!
-How do you like that?
-Don't think you've won yet! Let's see how you do against both me and Metal Sonic!
-One challenger or two, it doesn't make a difference to me!
-All right then... Now let's teach that Eggman a lesson!
-Unforgivable! You've just made me very very angry!
-Fine then! I'll use this camera to turn the whole planet into a card!
-Ho ho ho ho! You can just sit back and watch! Farewell!
-No! I'm too late!
-That little... He just doesn't want to admit he lost!
-Hey! Knuckles![N]We can't give up yet!
-Sonic, Knuckles, get in! We can still catch up to him in my new Tornado plane!
-All right! Let's go, Sonic!
-Let's pull together on this one, Knuckles!
-Let's do this together, Knuckles!
-Thanks, Sonic!
-We need to work together, for both our futures!
-Let's do this, Silver!
-Ah, so you made it this far, Knuckles. Too bad you're too late!
-What!?
-I've already loaded the camera onto the rocket. Now I'll be able to turn the whole earth into a card!
-I just need to set this final card, and your puny little island will join my perfect collection, as well!
-That card... It's the Master Emerald!
-Now, then... farewell, Knuckles! Ho ho ho ho!
-Hey, wait! I'll take that card back now!
-All right!
-I finally got the Master Emerald back!
-I'll use it to send Onyx Island back where it belongs in the future.
-While I'm at it, I might as well locate all the other treasures that Eggman turned into cards.
-This is going to be fun!
-Who's there!? You better not get in my way!
-My name is Shadow... And I won't let you harm the doctor!
-Ah! Shadow! Take care of him for me!
-Wait! Eggman!
-Hey! Wait!
+Não tenho mais nada pra dizer pra você! Vá brincar com o Metal Sonic agora!
+Chega disso, Eggman! É melhor começar a explicar o que está acontecendo!
+Ok! Se quer tanto saber, eu irei te dizer!
+Eu transformei a Esmeralda Mestra em uma carta, usando a minha câmera, tirando uma foto dela na Angel Island do futuro.
+Já que a Esmeralda Mestra é um objeto único que existe através do espaço-tempo contínuo...
+Quando a esmeralda do futuro virou uma carta, ela deixou de existir em outros períodos do tempo também.
+Então é por isso que a Esmeralda Mestra sumiu bem diante dos meus olhos!
+Então você finalmente entendeu.
+Usando o poder da Esmeralda, eu fiz a Angel Island ficar assim, um espelho do seu futuro.
+Entendi... isso tudo é culpa sua!
+Gostou dessa?
+Não pense que venceu ainda! Vamos ver o quão bem se sai contra mim e o Metal Sonic!
+Seja um adversário ou dois, não faz diferença nenhuma pra mim!
+Beleza... vamos dar uma lição pro Eggman!
+Isso é imperdoável! Você me deixa cada vez mais irritado!
+Tudo bem! Usarei essa câmera para transformar o mundo em uma carta!
+Ho ho ho ho! Pode sentar e curtir o show! Tchauzinho!
+Não! Cheguei tarde!
+Aquele maldito... Ele não quer admitir que perdeu!
+Hey! Knuckles![N]Não podemos desistir!
+Sonic, Knuckles, subam! Ainda podemos alcançar ele com o meu novo Tornado!
+Beleza! Vamos lá, Sonic!
+Vamos nos unir agora, Knuckles!
+Vamos fazer isso juntos, Knuckles!
+Obrigado, Sonic!
+Precisamos trabalhar juntos, para o futuro de todos!
+Vamos fazer isso, Silver!
+Ah, você chegou tão longe, Knuckles. Que pena que está atrasado!
+O que!?
+Eu já carreguei a câmera no foguete. Agora poderei transformar a terra inteira em uma carta!
+Eu só preciso colocar essa última carta, e a sua pequena ilha também fará parte da minha coleção!
+Essa carta... É a Esmeralda Mestra!
+Agora... tchauzinho, Knuckles! Ho ho ho ho!
+Hey, espera! Eu vou pegar essa carta de volta!
+Beleza!
+Finalmente recuperei a Esmeralda Mestra!
+Vou usa-la para mandar a Onyx Island de volta para o futuro.
+Enquanto isso, acho melhor encontrar os outros tesouros que o Eggman transformou em cartas.
+Agora a diversão começa!
+Quem está aí!? É melhor não se meter!
+Meu nome é Shadow... e eu não vou deixar você ferir o doutor!
+Ah! Shadow! Cuide dele pra mim!
+Espera! Eggman!
+Hey! Espera!
 Bzzz... Zzzzz... Zzzzzzz...
-C-Can you hear me, Shadow? There's someone after me!
-He's... Ah, it's all so confusing! I'm not sure how to explain this!
-Anyway, follow this signal, and come find me! I'm counting on you, Shadow!
+S-Shadow, consegue me ouvir? Tem alguém atrás de mim!
+Ele... Ah, é tudo tão confuso! Não sei como explicar isso!
+Independente, siga esse sinal, e me encontre! Estou contando com você, Shadow!
 ... Bzzzzz... Zzzz Zzp...
-After that last transmission, the doctor disappeared. That was 6 hours ago. What happened to him?
-Huh? What's this... A silver hedgehog?
-And... He's chasing... the doctor!?
-Hey you! What do you want with the doctor!?
-So, was this who you were warning me about in your transmission?
-Transmission? What are you talking about?
-What!? 6 hours ago, you asked for my help.
-Why would I ask you for your help?
-What? Why are you...
-Hey, wait a second. I think you may be mistaken about something...
-Grr! Stop this nonsense... It's driving me crazy!
-Did you see Eggman come running by there?
-You let the doctor get away? Hmph! You're useless...
-What'd you say!? What's your problem, Shadow!?
-Don't mess with me, I'm not in the mood! I might take it out on you, got it?
-Whatever Knuckles... But first, I've got some business with the doctor!
-All right then... Let's see who can catch him first!
-You're on! Let's do it!
-The doctor's acting strange... It makes no sense, but this has nothing to do with me...
-Hmm, guess this was just a waste of my time...
+Depois dessa última transmissão, o doutor desapareceu. Isso foi há 6 horas atrás. O que aconteceu?
+Huh? O que é isso... Um ouriço prateado?
+E... ele está... perseguindo o doutor!?
+Hey, você! O que você quer com o doutor!?
+Então, era sobre esse cara que estava me avisando na sua transmissão?
+Transmissão? Do que está falando?
+O que!? 6 horas atrás, você pediu minha ajuda.
+Por que eu te pediria ajuda?
+O que? Por que você...
+Hey, espera um pouco. Acho que você confundiu as coisas...
+Grr! Chega dessas besteiras... Estou ficando maluco!
+Você viu pra onde o Eggman foi?
+Você deixou o doutor escapar? Hmph! Seu inútil...
+O que você disse!? Qual é o seu problema, Shadow!?
+Não mexe comigo, eu não tô no clima, ou eu vou descontar em você, entendeu!?
+Tanto faz, Knuckles... Mas primeiro, eu tenho alguns negócios com o doutor!
+Então beleza... Vamos ver quem pega ele primeiro!
+Vamos nessa!
+O doutor está agindo estranho... Não faz sentido, mas não é problema meu...
+Hmm, acho que só perdi meu tempo...
 Bzzz... Zzzzz... Zzzzz...
-This is Rouge! Can you hear me, Shadow?
-I've come across something quite interesting about the doctor!
-I'll fill you in on the details later. Just keep tailing him for now!
+Shadow, consegue me ouvir? É a Rouge!
+Tenho algo interessante sobre o doutor!
+Te mando os detalhes depois. Apenas fique na cola dele!
 ... Bzzz... Bzzzzzzp...
-How is Rouge involved? What's going on with the doctor?
+Como a Rouge está envolvida? O que está havendo com o doutor?
 Hey, Shadow!
-Doctor! What are you hiding?
-What secret was Rouge talking about?
-Rouge? Secret? What are you talking about?
-Hey, my business comes first! Who cares what he's hiding.
-Eggman! You'd better hand over the Master Emerald this time!
-Annoying pests! I'll crush you with my mechanical pets!
+Doutor! O que está escondendo?
+Que segredo é esse que a Rouge estava falando?
+Rouge? Segredo? Do que raios você está falando?
+Hey, meu assunto vem primeiro! Pouco importa se ele está escondendo algo.
+Eggman! É melhor você entregar a Esmeralda Mestra dessa vez!
+Pestes irritantes! Eu vou esmagar vocês com os meus bichinhos mecânicos!
 Bzzz... Zzzzz... Bzzzzz...
 !?
-Shadow! Come in! You'll never guess what I found out!
-This light!? What's going on!?
-Eggman is really...
-Looks like we transported to a completely different location...
+Shadow! Na escuta! Você não vai acreditar no que descobri!
+Essa luz!? O que está acontecendo!?
+Eggman está prestes a...
+Parece que fui teleportado pra outro lugar...
 Aaaaah!
-Sonic! What are you doing here? And where's the doctor?
-Rouge! What happened!?
-Hey, look it's Shadow! Now I get it, he must be like you're looking for Eggman, too.
+Sonic! O que está fazendo aqui? E cadê o doutor?
+Rouge! O que houve!?
+Hey, é o Shadow! Entendi, ele também tá procurando o Eggman.
 ... Bzzz... Bzzzzzp...
-It must be another race to see who can catch him first!
-The transmission was cut off... What's going on?
-Let's do it!
-Then, why don't you test your mettle against my very own Metal Sonic, here?
-Why don't you show me just how unlike Sonic you really are, then?Hoh ho ho ho!
-Hmph! There's no way I'm losing to some android fake. I accept your challenge!
-Doctor! I think it's time you explained yourself!
-And do you know where Rouge is?
-Ho ho ho ho! Were you looking for this?
-Hmph! I have no time for card games!
-Ah, but what if your "friend" were trapped inside this card, eh? Is this still a game to you?
-W, what!?
-This little troublemaker has learned too much for her own good, so I've trapped her in this card.
-I'll figure out what's going on later... Now, hand over that card!
-Ho ho ho! Do you really want it that badly?
-It seems Rouge discovered the doctor's secret and got turned into a card...
-I'll have to find the doctor and find out what the secret is...
+Hora de outra corrida até o bigodudo!
+A transmissão foi cortada... o que está acontecendo?
+Bora lá!
+Então, que tal testar suas habilidades contra o meu Metal Sonic?
+Por que não me mostra o quão melhor que o Sonic você é? Hoh ho ho ho!
+Hmph! Não tem como eu perder pra uma cópia barata de metal. Eu aceito seu desafio!
+Doutor! Acho que é hora de se explicar!
+E você sabe onde a Rouge está?
+Ho ho ho ho! Procurando por isso?
+Hmph! Eu não tenho tempo pra joguinhos!
+Ah, e se a sua "amiga" estiver presa nessa carta, ein? Ainda é um joguinho pra você?
+O- O que!?
+Aquela pestinha sabia demais, então eu prendi ela nessa carta.
+Vou deixar pra descobrir tudo depois... agora, me entregue esse carta!
+Ho ho ho! Você quer isso tanto assim?
+Parece que a Rouge descobriu o segredo do doutor e foi transformada em uma carta...
+Preciso encontra-lo e descobrir o que é esse segredo...
 Ei, Shadow! Você achou o Eggman?
 Heh... Parece que o doutor te driblou de novo...
 Calado! Eu tava perto de pegar ele!
-Enfim, não parece que você conseguiu achar ele também!
-Maybe so, but at least I'm not as clueless as you. I'll see you later!
+Além disso, não parece que você conseguiu achar ele também!
+Pode até ser, mas diferente de você, eu já tenho alguma pista. Te vejo depois!
 Ei, espera! Nem ferrando que você vai acabar comigo pra ele!
-Wait! Doctor!
-Tell me the secret you've been hiding. Now!
+Espera! Doutor!
+Me conte o segredo que está escondendo. Agora!
 Ho ho ho ho!
-Perhaps you're talking about this card?
-That's...!? The doctor's on that card!
+Está falando desta carta?
+A-aquele...!? É o doutor naquela carta!
 Ei, Eggman!
-What's going on here!? You better start explaining!
+O que está havendo aqui!? É melhor começar a se explicar!
 Chega desse papo furado! Hora de cuidar de vocês!
-What?! Eggman's been turned into a card, too?
-Hoh ho ho! Are the two of you having fun?
-Doctor!
-Good timing. I can hear everything I want straight from the Doctor himself!
-Sorry, but he's my target! I can't let you through!
-The Doctor's been turned into a card, too, just like Rouge...?
-But how would the Doctor have a card of himself? It doesn't make any sense...
-Hm? It's that silver hedgehog from before!
-This all started when he showed up. He's got to know something about what this is all about!
-Hey, you! Why don't you tell me why you're trailing the Doctor, hmm?
-You... You're Shadow!
-Listen, you don't understand what's going on. Please, take this as a warning.
-The man that you refer to as 'Doctor'... There's a chance that he's not the real Eggman.
-What? So, then, the REAL Eggman is the one who's been turned into that card?
-Heh heh heh... Now that I've told you the truth ...I'll have to dispose of you! Let's see how you do against Metal Sonic!
-Metal Sonic has been programmed with all your moves and attack patterns from your last encounter, and now, he will prove to be an admirable adversary for you.
-Whatever! Now, why don't I show that fake why they call me the Ultimate life form!
-Who are you!?
-If what you said is true, then the real doctor is trapped inside that card!
-Heh heh heh...It seems it's time that we stop playing this childish game any longer...
-You are quite right... I am not Eggman!
-My name is Eggman NEGA!
-Eggman NEGA!? But you look like...
-Just like Eggman?
-Of course I do! For I am a descendant of Eggman!
-What!? His descendant!?
-What's the matter? Nowhere left to run?
-Heh heh heh... I cannot lose! If I lose now, I won't be able to change the future.
-What!? Change the future? Is that what you've been trying to do?
-Hmm... I won't let you get away with that!
-Very well then. It looks like I'll have to put you down myself!
-That's right! I'm the real Dr. Eggman!
-Back in the flesh, thanks to you, Shadow!
-So it looks like we have a common enemy. Want to come along?
-Hmph! Is that a question?!
-Very well!
-Then off we go, out into space! Hang on!
-Now you've done it! You've made me very very angry!
-Now, I'll use this camera to transform the whole planet into a card!
-Wait! Eggman NEGA!
-Heh heh heh... There's nothing you can do... Goodbye!
-No! I'm too late!
-It's like you said before. He was only impersonating the Doctor.
-It looks like you've realized who the true enemy is, Shadow.
-Ho ho ho ho! It looks like you have a problem!
-Wha-!? Doctor!
-For now, I'll help you protect the future!
-Hmph, do what you want.
-About time you showed, Shadow! I'll give you a hand too!
-Sonic!? Heh, just stay outta my way.
-Just relax, and enjoy the moment... For it will be your last! Now, if you'll just excuse me... Heh heh heh...
-Not so fast, Eggman NEGA! That card's mine!
-This must be the center of the base...
-Hmm? Isn't that an escape rocket!? He's going to use that to turn the entire planet into a card!
-It took you long enough to get here, Shadow...
-You! Why are you trying to change the future?
-Heh heh heh... I'm here to change my destiny!
-I come from a long line of brilliant, scientists, but that lineage was disrupted with Dr. Eggman's failures!
-As a result, I have been denied my destiny as the world has refused to recognize my brilliance!
-So by removing Dr. Eggman's life and failed attempts at success, I will alter our family history forever!
-Now enough of this chit-chat. Once I set Rouge's card into the rocket, it's all over!
-Hey, wait a minute! Come on, Shadow!
-Thanks for saving me, Shadow!
-That was a bit too close for comfort. What were you thinking!?
-Hmph... There's no way I'd lose to someone like him who blames their own failures on the past.
-That's my Shadow!
-Hey, why not take a peek into our own future?
-Hmph. I'll pass.
-Oh, come on, Shadow. At the very least, we'd be able to do some treasure hunting together.
-We can start with the other cards Eggman had!
-Do what you like...
+O que?! Ele também foi transformado em uma carta?
+Hoh ho ho! Vocês dois estão se divertindo?
+Doutor!
+Não tinha momento melhor. Posso ouvir tudo diretamente de você!
+Foi mal aí, mas ele é meu alvo! Não posso te deixar passar!
+O doutor também foi transformado em uma carta, assim como a Rouge...?
+Mas como ele pode ter uma carta de si mesmo? Não faz sentido...
+Hm? É aquele ouriço prateado de antes!
+Isso tudo começou quando ele apareceu. Ele deve saber de alguma coisa!
+Ei, você! Por que você estava perseguindo o doutor?
+Você... é o Shadow!
+Escuta, você não entende o que tá havendo. Por favor, considere isso como um aviso.
+Aquele cara que você se refere como 'Doutor'... tem uma chance dele não ser o verdadeiro Eggman.
+O que? Então, isso quer dizer... que quem foi transformado em carta é o VERDADEIRO Eggman?
+Heh heh heh... agora que te contei tudo... preciso te fazer sumir! Vamos ver como se sai contra o Metal Sonic!
+Ele foi atualizado com seus padrões de movimento e ataque, adquiridos no último confronto de vocês, agora ele é um adversário a altura.
+Tanto faz! Vou mostrar pra vocês dois porquê me chamam de forma de vida suprema!
+Quem diabos é você!?
+Se o que ouvi for verdade, o verdadeiro doutor está preso naquela carta!
+Heh heh heh... acho que está na hora de pararmos com esse joguinho de criança...
+Você está certo... eu não sou o Eggman!
+Meu nome é Eggman NEGA!
+Eggman NEGA!? Mas você se parece...
+Com o Eggman?
+É claro que pareço! Eu sou um descendente dele do futuro!
+O que!? Descendente!?
+O que houve? Não sabe pra onde correr agora?
+Heh heh heh... Não posso perder! Se eu perder agora, não poderei mudar o futuro.
+O que!? Mudar o futuro? É isso que está tramando?
+Hmm... você não vai sair impune disso!
+Beleza então. Parece que vou ter que lidar com você eu mesmo!
+Isso mesmo! O verdadeiro Dr. Eggman!
+De volta em um piscar de olhos, graças a você, Shadow!
+Parece que temos um inimigo em comum. Quer vir junto?
+Hmph! Isso foi uma pergunta?!
+Ótimo!
+Então vamos, para o espaço! Aguentem firme!
+Agora você conseguiu! Estou maluco de raiva!
+Agora, usarei essa câmera para transformar o mundo em uma carta!
+Espera! Eggman NEGA!
+Heh heh heh... não há nada que você não possa fazer... Tchauzinho!
+Não! Cheguei tarde!
+É o que você disse antes. Ele estava fingindo ser o doutor.
+Acho que agora você sabe quem é o verdadeiro inimigo, Shadow.
+Ho ho ho ho! Parece que estão com problemas!
+O qu-!? Doutor!
+A partir de agora, te ajudarei a proteger o futuro!
+Hmph, faça o que quiser.
+Já era hora, Shadow! Vou te dar uma mãozinha!
+Sonic!? Heh, só não me atrapalhe.
+Relaxe, e aproveite... o seu último momento! Agora, se me dá licença... Heh heh heh...
+Não tão rápido, Eggman NEGA! Essa carta é minha!
+Esse deve cer o centro da base...
+Hmm? Isso é um foguete de fuga!? Ele vai usar isso pra transformar o planeta em uma carta!
+Você demorou pra chegar aqui, Shadow...
+Você! Por que você quer mudar o futuro?
+Heh heh heh... Estou aqui para mudar meu destino!
+Eu venho de uma grande linhagem de cientistas brilhantes, mas essa linhagem está manchada com as falhas de Dr. Eggman!
+Como resultado, eu fui negado do meu destino, do mundo reconhecer a minha grandeza!
+Tirando Eggman e suas falhas da jogada, eu vou re-escrever toda a história da minha família!
+Agora chega de conversa. Assim que eu colocar a carta da Rouge no foguete, acabou!
+Ei, espera um pouco! Vamos, Shadow!
+Valeu por me salvar, Shadow!
+Isso foi por um triz. O que estava pensando!?
+Hmph... Não tem como eu perder para alguém que coloca a culpa de suas própria falhas em acontecimentos passados.
+Esse é o meu Shadow!
+Ei, quer dar uma olhadinha no nosso futuro?
+Hmph. Eu passo.
+Ah, vamos lá, Shadow. Podemos ao menos caçar alguns tesouros.
+Podemos começar com as outras cartas que o Eggman tem!
+Isso é o que você gosta...
 Ho ho ho ho!
-You've come all this way to find me... This must be something very important!
-Ei, Eggman! I've got something to ask you, about someone I'm looking for!
-You! What do you want with the doctor!?
-Who's there!? You better not get in my way!
-My name is Shadow... And I won't let you harm the doctor!
-Ah, Shadow! Take care of him for me!
-Wait! Eggman!
-Hey! Wait!
-So, this is who you were warning me about in your transmission?
-Hey, wait a second. I think you might be wrong here.
-I'm just here to ask him about someone named "Eggman NEGA."
-Who!? Eggman NEGA!? I have no clue who you're talking about!
-Grr! Stop this nonsense... It's driving me crazy!
-Eggman! I know you know something about that guy!
-Ho ho ho ho! If you really need to know, I'll tell you...
-But only if you can defeat that blue hedgehog!
-Hey, get back here, Eggman!
-Get out of my way, I've got some personal business with him.
-Hey! You sure have an attitude. Who are you, anyway?
-My name is Silver...
-I can't tell you why, but I need to get to him before you.
-Okay, Silver. Bring it on... I like challenges!
-Okay! Now hand over those cards!
+Você veio de tão longe pra me encontrar... isso deve ser muito importe pra você!
+Hey, Eggman! Preciso te perguntar uma coisa, sobre alguém que estou procurando!
+Você! O que quer com o doutor!?
+Quem está aí!? É melhor não se meter!
+Meu nome é Shadow... e eu não vou deixar você ferir o doutor!
+Ah! Shadow! Cuide dele pra mim!
+Espera! Eggman!
+Hey! Espera!
+Então, era sobre esse cara que estava me avisando na sua transmissão?
+Hey, espere um segundo. Isso é um mal entendido.
+Estou aqui só pra te perguntar sobre um cara chamado "Eggman NEGA."
+Quem!? Eggman NEGA!? Não faço ideia do que está falando!
+Grr! Chega dessas besteiras... Estou ficando maluco!
+Eggman! Eu sei que você sabe de alguma coisa!
+Ho ho ho ho! Se precisa mesmo saber, eu irei te dizer...
+Mas só se você derrotar aquele ouriço azul!
+Ei, volta aqui, Eggman!
+Saia do meu caminho, tenho negócios pessoais pra resolver.
+Ei! Com certeza você tem atitude.[N]Quem é você, mesmo?
+Meu nome é Silver...
+Não posso te dizer o porquê, mas eu preciso chegar nele antes de você.
+Ok, Silver. Manda ver, eu gosto de desafios!
+Beleza! Agora me dê essas cartas!
 Grrrrr...
-Hey! Move aside. I already told you I need to talk to him first.
-Yo Silver... You're starting to get on my nerves!
-Enough of this chit chat... Prepare yourself!
+Hey! Da licença. Eu disse que preciso falar com ele primeiro.
+Yo Silver... cê ta começando a me irritar!
+Chega dessa balela... Se prepara!
 Seu... Volte aqui!
-Ele certamente sabe como correr, eu vou dar isso...
+Ele certamente sabe como correr, vou dar esse ponto pra ele...
 Ei, você aí! Viu aquele cara carregando algo estranho?
 Na verdade... ele tem aquela câmera estranha que transforma as coisas em cartas... Espera um minuto... Quem é você?
 O que você disse!? Como ele conseguiu isso?
-You...! What are you mumbling about?
-Got no time to explain it to someone like you... See ya!
-"Someone like me?" Hey, I'm Knuckles! Haven't you heard of me?
-How rude! Asking questions without having the gall to introduce himself!
-Like I said before, I don't have time to deal with you right now. See ya!
-Eggman! That camera technology shouldn't exist in this time! How did you get it?
-Well, well... Seems like you're quite perceptive...
-Allow me to explain...[N] If you can win a race against my dear Metal Sonic, that is!
-Hmph! That outdated machine doesn't stand a chance against me!
-I accept your challenge!
-It appears that Eggman knows what that camera can do...
-So my question is, how did he get his hands on it?
-Hey, Silver! So we meet again?
+Você...! O que está murmurando aí?
+Eu não tenho tempo pra explicar pra alguém como você... até mais!
+"Alguém como eu?" Hey, eu sou Knuckles! Você não ouviu falar de mim?
+Que rude! Ficar fazendo perguntas pros outros sem nem sequer se apresentar!
+Como eu disse, eu não tenho tempo pra isso. Até mais!
+Eggman! Essa câmera não deveria existir nesse tempo! Como você conseguiu ela?
+Ora, Ora... você parece ser bem analista...
+Deixe-me explicar...[N]Se você vencer contra o meu querido Metal Sonic, é claro!
+Hmph! Essa máquina ultrapassada não tem chance contra mim!
+Eu aceito seu desafio!
+Parece que o Eggman sabe o que aquela câmera faz...
+Agora eu me pergunto, como ele conseguiu por as mãos nela?
+Hey, Silver! Olá novamente!
 Sonic!?
-Heh! While you've been wasting your time, I've been figuring his next move...
-What!?
-If you can keep up, I might tell you what I know! Let's go!
-Ei, Eggman! Things are finally starting to make sense...
-"Eggman NEGA," who I'm looking for, would never let his camera out of his sight.
-So, that means... You must be Eggman NEGA!
-Well now... That's an interesting theory... But do you have any proof?
-Ei, Eggman! Are we done with your little game yet?
-Hmm... I suppose I have enough data to proceed with my plans...
-But if I defeat you now, there won't be anyone left to get in my way in the present, or in the future...
-The future!? You've given yourself away!
-Heh! That's a big IF, Eggman. Get ready!
-Dang![N]I knew that the accident with the camera...
-Hoh ho ho! Are you two having fun?
+Heh! Enquanto cê gastava seu tempo, eu descobri o próximo truque dele...
+O que!?
+Se puder me acompanhar, talvez eu te conte! Vamos lá!
+Ei, Eggman! As coisas estão começando a se encaixar...
+"Eggman NEGA," que é quem estou procurando, nunca deixaria sua câmera fora de vista.
+Então, isso quer dizer... que você é Eggman NEGA!
+Olha só... que teoria interessante... mas você tem alguma prova?
+Ei, Eggman! Terminou de brincar, bebezão?
+Hmm... Acho que já tenho dados o bastante...
+Mas se eu te derrotar agora, não vai ter mais ninguém pra ficar no meu caminho no presente, ou no futuro...
+O futuro!? Você acabou de falar demais!
+Heh! Isso é só SE você me derrotar! Pode vir, Eggman!
+Droga![N]Eu sabia que o acidente com a câmera...
+Hoh ho ho! Vocês dois estão se divertindo?
 Eggman?!
-This ends now! I'm going to expose you for who you really are, no matter what it takes!
-No! The Doctor's mine! Stay out of my way!
-I can't be sure, but there's something about his speech and his mannerisms...
-No, it has to be! He's got to be Eggman NEGA!
-But, if that's the case, then where is the REAL Eggman?
-So, we meet again. Why don't you tell me why you're trailing the Doctor, hmm?
-You... You're Shadow!
-Listen, you don't understand what's going on. Please, take this as a warning.
-The man that you refer to as 'Doctor'... There's a chance that he's not the real Eggman.
-What? So, then, the REAL Eggman is the one who's been turned into that card?
-What?![N]Eggman's been turned into a card, too?
-Why not give yourself up? There's no doubt in my mind that you're Eggman NEGA!
-Heh heh heh... If you know that much, then the reason you're here is...
-That's right! I came from the future to bring you back!
-I can't allow you to abuse the camera's power!
-I admire your determination, but I'm afraid I can't allow you to capture me!
-I'll let Metal Sonic play with you in order to buy me the time I need to quietly sneak away.
-Oh, and you'll find that Metal Sonic is a tad bit more of a capable opponent than before. Heh heh heh...
-Eggman NEGA! I'm not letting you get away!
-All right, Eggman NEGA! You're coming back to the future with me! You've been here far too long!
-I won't let you interfere with my plan! It's time to get down to business!
-So it looks like we have a common enemy. Want to come along?
-Hmph! Is that a question?!
-Very well!
-Then off we go, out into space! Hang on!
-Now you've done it... You've made me very, very angry!
-I'll use this camera to turn this entire planet into a card!
-Heh heh heh... There's nothing you can do, so goodbye!
-No! I'm too late!
-It's like you said before. He was only impersonating the Doctor.
-It looks like you've realized who the true enemy is, Shadow.
-Ho ho ho ho! It looks like you have a problem!
-You!?
-Don't be rash! I'm the real Dr. Eggman!
-That man who was impersonating the Doctor... I can't allow his plans to succeed. Let me help you!
-Thanks, Shadow!
-Hey! It's not wise to tackle everything on your own! Let me help!
-Thanks!
-Eggman NEGA! This is the end of the line for you!
-Ohohoh! I'm impressed that you managed to make it this far. Unfortunately, you're too late!
-Liar! You're bluffing!
-All I have to do is transfer the energy to the camera on my rocket, and I'll turn this whole planet into a card!
-What!? That means my future would be destroyed as well!
-If I can't change the future, I'll simply destroy it!
-There's nobody who can stop me now! Farewell.
-You're not getting away with this, Eggman NEGA! I won't let you ruin the future!
-Eggman NEGA... It looks like he lost control of his machine, and got turned into a card himself...
-As soon as I can collect the other cards, and take care of Eggman NEGA's mess, I'll head back to the future...
-This time frame will be fine, so long as they're around...
-Those blue and black hedgehogs certainly are brave...
+Isso acaba agora! Eu vou mostrar quem você realmente é, não importa o que aconteça!
+Não! O doutor é meu! Fique fora do meu caminho!
+Posso não ter certeza, mas tem algo no jeito que ele fala e age...
+Não, tem que ser isso! Ele é Eggman NEGA!
+Mas, se é o caso, cadê o VERDADEIRO Eggman?
+Então, nos encontramos de novo. Por que você estava perseguindo o doutor?
+Você... é o Shadow!
+Escuta, você não entende o que tá havendo. Por favor, considere isso como um aviso.
+Aquele cara que você se refere como 'Doutor'... tem uma chance dele não ser o verdadeiro Eggman.
+O que? Então, isso quer dizer... que quem foi transformado em carta é o VERDADEIRO Eggman?
+O que?![N]Ele também foi transformado em uma carta?
+Por que não desiste? Eu já descobri que você é Eggman NEGA!
+Heh heh heh... já que você sabe tanto, a razão de você estar aqui...
+Isso mesmo! Eu vim do futuro pra te trazer de volta!
+Não posso permitir que abuse do poder desta câmera!
+Eu admiro sua determinação, mas temo que não posso deixar que me capture!
+Vou deixar o Metal Sonic brincando com você enquanto termino tudo que preciso.
+Ah, e se você acha que ele vai ser derrotado como antes, você terá uma surpresinha. Heh heh heh...
+Eggman NEGA! Não vou te deixar fugir!
+Beleza, Eggman NEGA! Você vai voltar pro futuro comigo! Você já está aqui há muito tempo!
+Não vou deixar que interfira nos meus planos! É hora de trabalhar!
+Parece que temos um inimigo em comum. Quer vir junto?
+Hmph! Isso foi uma pergunta?!
+Ótimo!
+Então vamos, para o espaço! Aguentem firme!
+Agora você conseguiu! Estou maluco de raiva!
+Agora, usarei essa câmera para transformar o mundo em uma carta!
+Heh heh heh... Não há nada que você possa fazer, Tchauzinho!
+Não! Cheguei tarde!
+É o que você disse antes. Ele estava fingindo ser o doutor.
+Acho que agora você sabe quem é o verdadeiro inimigo, Shadow.
+Ho ho ho ho! Parece que estão com problemas!
+Você!?
+Não se precipite! Sou o verdadeiro Dr. Eggman!
+Aquele homem estava fingindo ser o doutor... Não posso permitir que os planos dele deêm certo. Pode contar comigo!
+Valeu, Shadow!
+Hey! Não faz bem fazer tudo sozinho! Eu vou te ajudar!
+Valeu!
+Eggman NEGA! É o fim da linha pra você!
+Ohohoh! Estou impressionado que chegou tão longe. Infelizmente, você está atrasado!
+Mentiroso! Está blefando!
+Tudo que eu preciso fazer, é transferir a energia para a câmera no foguete, e transformar o planeta inteiro em uma carta!
+O que!? Isso quer dizer que o meu futuro vai ser destruído também!
+Se eu não posso mudar o futuro, é mais fácil destruí-lo!
+Ninguém pode me deter! Tchauzinho.
+Você não vai se safar dessa, Eggman NEGA! Não vou deixar que destrua o futuro!
+Eggman NEGA... parece que ele perdeu o controle da sua máquina, e acabou transformando a si mesmo em uma carta...
+Assim que eu coletar as demais cartas, e der um jeito na bagunça do Eggman NEGA, voltarei de volta para o futuro...
+Esse período vai ficar bem, enquanto eles estiverem por aí...
+Aqueles dois ouriços são corajosos...
 O-ho-ho-ho!
 Espera, volta aqui!
 Sem ressentimentos, Sonic, mas dessa vez não tem como você me vencer!
@@ -527,97 +527,97 @@ Ei! Com certeza você tem atitude.[N]Quem é você, mesmo?
 Meu nome é Silver...
 Não posso te dizer o porquê, mas eu preciso chegar nele antes de você.
 Ok, Silver.[N]Manda ver, eu gosto de desafios!
-Okay! Now hand over those cards!
+Beleza! Agora me dê essas cartas!
 Grrrrr...
-Hey! Move aside. I already told you I need to talk to him first.
-Yo Silver... you're starting to get on my nerves!
-Enough of this chit chat...[N]Prepare yourself!
-It's too dangerous to get close to him! Hyah!
-Where am I!?
-Hey, what're you doing!?[N]Wha-!
-Looks like we've been transported to a completely different location...
-Sonic! What are you doing here? And where's the doctor?
-Hey, look it's Shadow!? Now I get it, he must be looking for Eggman, too.
-It must be another race to see who can catch him first!
-Let's do it!
-Heh. Looks like I've left Shadow clear in the dust. Guess he's really not as fast as he thinks.
-Hoh ho ho ho![N]That was a thrilling little contest there, Sonic!
-Eggman![N]What are you up to this time?
-Heh heh heh...[N]You must be proud of yourself, having beaten Shadow so handily.
-How do you feel about trying out your skills against my lovely Metal Sonic?
-Wh-what?[N]Metal Sonic?!
-Come forth, Metal Sonic![N]Show this pathetic hedgehog what you're capable of!
-Now, Sonic, let's see if you really are the fastest thing in the world, shall we?
+Hey! Da licença. Eu disse que preciso falar com ele primeiro.
+Yo Silver... cê ta começando a me irritar!
+Chega dessa balela...[N]Se prepara!
+É perigoso ficar perto dele! Hyah!
+Onde é que eu to!?
+Hey, o que cê ta fazendo!?[N]O que-!
+Parece que fui teleportado pra outro lugar...
+Sonic! O que está fazendo aqui? E cadê o doutor?
+Hey, é o Shadow!? Entendi, ele também tá procurando o Eggman.
+Hora de outra corrida até o bigodudo!
+Bora lá!
+Heh. Parece que deixei o Shadow comendo poeira. Acho que ele não é tão rápido assim.
+Hoh ho ho ho![N]Que competiçãozinha mais fofa foi essa, Sonic!
+Eggman![N]O que está planejando agora?
+Heh heh heh...[N]Você deve estar orgulhoso, por ter derrotado o Shadow tão facilmente.
+O que acha de testar suas habilidades contra meu amável Metal Sonic?
+O-O que?[N]Metal Sonic?!
+Venha, Metal Sonic![N]Mostre pra este ouriço patético o seu poder!
+Agora, Sonic, vamos ver agora se você realmente é a coisa mais rápida do mundo.
 Hoh ho ho ho!
-Eggman said something about the strongest and the fastest...[N]What's he up to?
-Ah ha! Looks like I've caught up to him again!
-Hey, Silver![N]We meet again!
+Eggman disse alguma coisa sobre poder e sobre ser o mais rápido...[N]O que ele planeja?
+Ah ha! Parece que encontrei ele de novo!
+Hey, Silver![N]Olá novamente!
 Sonic!
-Dang! How did he manage to get back here so quickly?
-Heh! While you've been wasting your time, I've been figuring his next move...
-What!?
-If you can keep up, I might tell you what I know![N]Let's go!
-Okay, Eggman! I've proven that I'm the fastest and the strongest!
-So hand over Tails' card now!
-You want this card that badly, eh?
-Hmm... I suppose I have enough data...
-But if I defeat you now, there won't be anyone left to get in my way in the present, or in the future...
-The future!?[N]You've given yourself away!
-Heh! That's only IF you can defeat me![N]Bring it on Eggman!
-So you think you can track down Eggman faster than me? Let's do this!
-Curse you, Sonic![N]I won't forget this!
-Yes![N]I got Tails' card back!
-Phew![N]Sonic, you saved me!
-But be careful![N]I just know that Eggman's got some more tricks up his sleeve.
-Don't worry![N]He can try whatever he wants, but there's no way he's getting away with it!
-Sonic? Is that you?[N]And Tails, too?
-That must mean that you got the card back from Eggman. I'm too late!
-Sorry about that, Knuckles, but if you're trying to stay on Eggman's heels, you have to be quicker than that.
-Grr... É melhor você calar sua boca!
-You can't run, Eggman![N]No matter where you try to hide, I'll always track you down!
-Humph! Mouthing off as always... If you're so eager to finish things, why don't you let me oblige you!
-Metal Sonic![N]I command you!
-What, that lame robot copy of yours again? You really need to get ahold of some better toys, you know.
-Heh heh heh... The previous Metal Sonic was able to capture data from your last match... Data I was able to recover!
-I've already updated this new model with that data so that it'll be wise to your little tricks.
-This time, it's YOU who's going to get sent to the junk yard, Sonic!
-A copy is still just a copy! It'll never be able to top the original!
-Grr! Enough of this already!
-Let's see how you fare against both me and Metal Sonic!
-Makes no difference to me![N]Let's go!
-Unforgivable! You've just made me very very angry!
-Fine then! I'll use this camera to turn the whole planet into a card!
-Are you running away again, Eggman!?[N]Get back here and fight!
-Ho ho ho ho! You can just sit back and watch! Farewell!
-Dang it! I'm too late!
-Sonic, Knuckles, get in! We can still catch up to him in my new Tornado plane!
-Great timing, Tails!
-Let's pull together on this one, Knuckles!
-All right then... Now let's teach that Eggman a lesson!
-I'll give you a hand, Sonic![N]Let's take care of him together!
-Thanks, Knuckles!
-I need to find the truth![N]I'll help you, Sonic!
-Then let's do this, Shadow!
-Look, Sonic!
-Eggman's trying to escape in that rocket with the giant camera on it!
-You're too late, Sonic! I've already gathered enough energy to take a picture of the entire planet!
-Once I put this final card through my energy transfer device, the world will be mine!
-Nice knowing you, Sonic![N]Hoh ho ho ho!
-That's Amy's card![N]I totally forgot about her!
-We have to hurry before he converts Amy's card into energy!
-Then we gotta hurry![N]You're not getting away, Eggman!
-That's terrible! We've got to find those cards right now!
-You heard him, right Amy? I've got to run! See ya!
-Hey! Wait, Sonic!
-Where... where am I?
-Are you okay, Amy?
-Eggman used his camera to turn us into cards...
-But Sonic saved us!
-Wow! Sonic![N]You fought to save me!?
-You're my knight in shining armor, Sonic!
-So that means we're going to live happily ever after!
-Um... Uh, Tails... Didn't Eggman have other cards with him when he split?
-Y-Yeah... There might be some others trapped in the cards that need rescuing...
+Droga! Como ele conseguiu vir aqui tão rápido?
+Heh! Enquanto cê gastava seu tempo, eu descobri o próximo truque dele...
+O que!?
+Se puder me acompanhar, talvez eu te conte![N]Vamos lá!
+Beleza, Eggman! Já provei que sou o mais poderoso e o mais rápido!
+Agora me dá a carta do Tails!
+Você quer mesmo essa carta, né?
+Hmm... Acho que já tenho dados o bastante...
+Mas se eu te derrotar agora, não vai ter mais ninguém pra ficar no meu caminho no presente, ou no futuro...
+O futuro!?[N]Você acabou de falar demais!
+Heh! Isso é só SE você me derrotar![N]Pode vir, Eggman!
+Acha que pode persegui-lo mais rápido que eu? É o que vamos ver!
+Sonic, seu maldito![N]Eu não vou esquecer disso!
+Yes![N]Peguei a carta do Tails!
+Phew![N]Sonic, você me salvou!
+Mas cuidado![N]Eggman sempre tem outros truques na manga.
+Relaxa![N]Ele pode até tentar, mas ele não vai se safar dessa!
+Sonic? É você?[N]E o Tails, também?
+Isso significa que você pegou uma carta do Eggman. Estou atrasado!
+Mals aí, Knuckles, mas se você quer ficar no cangote dele, você tem que ser mais rápido.
+Grr... É melhor você calar a boca!
+Não dá pra fugir, Eggman![N]Não importa aonde você for, eu sempre vou te encontrar!
+Humph! Tagarela como sempre... se você gosta tanto acabar as coisas, deveria deixar eu acabar com você!
+Metal Sonic![N]Acabe com ele!
+O que, aquela lata velha de novo? Cara, cê ta realmente precisando de uns brinquedos novos.
+Heh heh heh... O último Metal Sonic registrou os dados da sua última corrida... Dados estes que eu recuperei!
+Eu atualizei esse novo modelo com esses dados, acredito que não vá ser tão fácil desta vez.
+Desta vez, é VOCÊ quem vai pro ferro velho, Sonic!
+Uma cópia é só uma cópia! Ela nunca será melhor que o original!
+Grr! Chega de brincadeiras!
+Vamos ver o quão bem você se sai contra mim e o Metal Sonic!
+Não faz diferença pra mim![N]Podem vir!
+Isso é imperdoável! Você me deixa cada vez mais irritado!
+Tudo bem! Usarei essa câmera para transformar o mundo em uma carta!
+Fugindo de novo, Eggman!?[N]Volte e lute seu covarde!
+Ho ho ho ho! Pode sentar e curtir o show! Tchauzinho!
+Droga! Estou atrasado!
+Sonic, Knuckles, subam! Ainda podemos alcançar ele com o meu novo Tornado!
+Ótimo timing, Tails!
+Vamos nos unir agora, Knuckles!
+Beleza... vamos dar uma lição pro Eggman!
+Vou te dar uma mãozinha, Sonic![N]Vamos tomar conta dele juntos!
+Valeu, Knuckles!
+Preciso descobrir a verdade![N]Eu vou te ajudar, Sonic!
+Vamos fazer isso, Shadow!
+Sonic, olha!
+O Eggman tá tentando fugir naquele foguete com uma câmera gigante!
+Está atrasado, Sonic! Estou prestes a ter energia o bastante para tirar uma foto do planeta inteiro!
+Assim que eu colocar a última carta, o mundo será meu!
+Foi bom te conhecer, Sonic![N]Hoh ho ho ho!
+Aquela é a carta da Amy![N]Eu me esqueci totalmente dela!
+Temos que nos apressar, antes que ele transforme a Amy em energia!
+Então vamos![N]Você não vai se safar, Eggman!
+Isso é horrível! Precisamos achar essas cartas agora mesmo!
+Você ouviu ele, né Amy? Tenho que correr! Falou!
+Hey! Sonic, espera!
+Onde... onde eu estou?
+Você tá bem, Amy?
+Eggman usou sua câmera e nos transformou em cartas...
+Mas o Sonic nos salvou!
+Wow! Sonic![N]Você lutou para me salvar!?
+Você é meu cavaleiro de armadura brilhante, Sonic!
+Isso quer dizer que vamos viver feliz pra sempre!
+Um... Uh, Tails... o Eggman não tinha mais cartas com ele quando ele saiu voando?
+É-É... Talvez tenham outras pessoas presas nas cartas, e que precisam de ajuda...
 [TB]
 1
 2
@@ -630,7 +630,7 @@ Todos
 The five boxing wizards jump quickly.
 The five boxing[N]wizards jump quickly.
 Apply
-Attack!
+Atacar!
 Ataques:
 30
 5000
@@ -653,11 +653,11 @@ Complete all Death Yard Challenges to unlock this Unique Card
 Complete all Meteor Base Challenges to unlock this Unique Card
 Complete Medium Challenges to unlock this Uncommon Card
 Complete Hard Challenges to unlock this Rare Card
-Complete Story Mode with Sonic to unlock this Unique Card
-Complete Story Mode with Knuckles to unlock this Unique Card
-Complete Story Mode with Shadow to unlock this Unique Card
-Complete Story Mode with Silver to unlock this Unique Card
-Complete all Story Modes to unlock this Unique Card
+Complete o Modo História com o Sonic para desbloquear esta Carta
+Complete o Modo História com o Knuckles para desbloquear esta Carta
+Complete o Modo História com o Shadow para desbloquear esta Carta
+Complete o Modo História com o Silver para desbloquear esta Carta
+Complete o Modo História com todos para desbloquear esta Carta
 Complete all Forest Falls Challenges to unlock this Unique Card
 Cartas coletadas:
 Cartas ganhas
@@ -693,7 +693,7 @@ Silver
 SILVER
 Sonic
 SONIC
-Choose Your Character
+Escolha seu Personagem
 Clear Data
 Deletar
 Zona Colosseum Highway
@@ -1165,14 +1165,14 @@ profile 2
 The title entered and exited sleep mode.[N]Load failed.
 profile 3
 Please select profile:
-Are you sure you want to delete?
-Are you sure you want to DELETE?
-Are you sure you want to delete all game data?
-Are you sure you want to DELETE all game data?
+Tem certeza que quer deletar?
+Tem certeza que quer DELETAR?
+Tem certeza que quer deletar os dados do jogo?
+Tem certeza que quer DELETAR os dados do jogo?
 (This will restore all default settings)
 Continue without a save game profile
-Continue without saving
-Save failed.
+Continuar sem salvar
+Salvamento falhou.
 The title entered and exited sleep mode.[N]Save failed.
 The Memory Stick™ has changed.[N]Would you like to save your game data[N]on this Memory Stick™?
 There is not enough space on the Memory Stick™.[N]At least %d KB more space is needed[N]to save this game data.[N][N]Would you like to delete game data?
@@ -1193,10 +1193,10 @@ for Silver
 for Sonic
 GameIntro
 Estatísticas
-Get Ready.
+Preparar...
 Global
 Gloves
-Go!
+Vai!
 Hard Challenges Completed
 Maior num. de ataques
 Maior num. de turbos
@@ -1360,7 +1360,7 @@ Recorde contra computador
 Recorde contra jogador
 1:13:03
 Reset to factory defaults
-Restart Race
+Tentar Novamente
 Anéis:
 75
 7,500
@@ -1381,7 +1381,7 @@ Escolha o rival
 Escolha a zona
 select trading host
 Set
-Efeitos sonoros
+Efeitos Sonoros
 Shadow Perdeu.
 Shadow Venceu!
 Shoes
@@ -1389,12 +1389,12 @@ Silver Perdeu.
 Silver Venceu!
 Jogo Solo
 Corrida Única
-Knuckles Skin Unlocked
-Metal Sonic Skin Unlocked
+Visual do Knuckles Desbloqueado
+Visual do Metal Sonic Desbloqueado
 Visuais
-Shadow Skin Unlocked
-Silver Skin Unlocked
-Sonic Skin Unlocked
+Visual do Shadow Desbloqueado
+Visual do Silver Desbloqueado
+Visual do Sonic Desbloqueado
 0
 1
 2
